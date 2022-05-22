@@ -1,0 +1,419 @@
+[
+    {
+      "hadiths": [
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4c7",
+          "title_arabic": "وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رَّسُولٍ إِلَّا نُوحِىٓ إِلَيۡهِ أَنَّهُ ۥ لَآ إِلَـٰهَ إِلَّآ أَنَا۟ فَٱعۡبُدُونِ(سورة الأنبياء,٢٥\n",
+          "title_bangla": "আপনার পূর্বে আমি যে রাসূলই প্রেরণ করেছি, তাকে এ আদেশই প্রেরণ করেছি যে, আমি ব্যতীত অন্য কোন উপাস্য নেই। সুতরাং আমারই এবাদত কর।\n",
+          "title_english": "And We sent no messenger before thee but We inspired him, (saying): There is no God save Me (Allah), so worship Me....."
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4c8",
+          "title_arabic": "إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ آيَاتُهُ زَادَتْهُمْ إِيمَانًا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ\n",
+          "title_bangla": "যারা ঈমানদার, তারা এমন যে, যখন আল্লাহর নাম নেয়া হয় তখন ভীত হয়ে পড়ে তাদের অন্তর। আর যখন তাদের সামনে পাঠ করা হয় কালাম, তখন তাদের ঈমান বেড়ে যায় এবং তারা স্বীয় পরওয়ার দেগারের প্রতি ভরসা পোষণ করে।\n",
+          "title_english": "They only are the (true) believers whose hearts feel fear when Allah is mentioned, and when revelations of Allah are recited unto them they increase their faith, and who trust in their Lord. \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4c9",
+          "title_arabic": "فَأَمَّا الَّذِينَ آمَنُوا بِاللَّـهِ وَاعْتَصَمُوا بِهِ فَسَيُدْخِلُهُمْ فِي رَحْمَةٍ مِّنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَاطًا مُّسْتَقِيمًا  \n",
+          "title_bangla": "অতএব, যারা আল্লাহর প্রতি ঈমান এনেছে এবং তাতে দৃঢ়তা অবলম্বন করেছে তিনি তাদেরকে স্বীয় রহমত ও অনুগ্রহের আওতায় স্থান দেবেন এবং নিজের দিকে আসার মত সরল পথে তুলে দেবেন।   \n",
+          "title_english": "As for those who believe in Allah, and hold fast unto Him, them He will cause to enter into His mercy and grace , and will guide them unto Him by a straight road.\n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4ca",
+          "title_arabic": "إِنَّا لَنَنصُرُ رُسُلَنَا وَالَّذِينَ آمَنُوا فِي الْحَيَاةِ الدُّنْيَا وَيَوْمَ يَقُومُ الْأَشْهَادُ \n",
+          "title_bangla": "আমি সাহায্য করব রসূলগণকে ও মুমিনগণকে পার্থিব জীবনে ও সাক্ষীদের দন্ডায়মান হওয়ার দিবসে। \n",
+          "title_english": "Lo! We verily do help Our messengers, and those who believe, in the life of the world and on the day when the witnesses arise, \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4cb",
+          "title_arabic": "الَّذينَ آمَنوا وَلَم يَلبِسوا إيمانَهُم بِظُلمٍ أُولـئِكَ لَهُمُ الأَمنُ وَهُم مُهتَدونَ \n",
+          "title_bangla": "যারা ঈমান আনে এবং স্বীয় বিশ্বাসকে শেরেকীর সাথে মিশ্রিত করে না, তাদের জন্যেই শান্তি এবং তারাই সুপথগামী। \n",
+          "title_english": "Those who believe and obscure not their belief by wrongdoing, theirs is safety; and they are rightly guided.\n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4cc",
+          "title_arabic": "وَالَّذِينَ آمَنُوا أَشَدُّ حُبًّا لِلَّهِ\n",
+          "title_bangla": "যারা আল্লাহর প্রতি ঈমানদার তাদের ভালবাসা ওদের তুলনায় বহুগুণ বেশী \n",
+          "title_english": "Those who believe are stauncher in their love for Allah \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4cd",
+          "title_arabic": "قُل إِنَّ صَلاتي وَنُسُكي وَمَحيايَ وَمَماتي لِلَّـهِ رَبِّ العالَمينَ  \n",
+          "title_bangla": " আপনি বলুনঃ আমার নামায, আমার কোরবাণী এবং আমার জীবন ও মরন বিশ্ব-প্রতিপালক আল্লাহরই জন্যে। ( আনআম ১৬২)",
+          "title_english": "Say: Lo! my worship and my sacrifice and my living and my dying are for Allah, Lord of the Worlds.\n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4ce",
+          "title_arabic": "عَنْ أَبِي هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" الإِيمَانُ بِضْعٌ وَ سَبْعُونَ شُعْبَةً فَأَفْضَلُهَا قَوْلُ لا إِلَهَ إِلا اللَّهُ وَأَدْنَاهَا إِمَاطَةُ الأَذَى عَنِ الطَّرِيقِ ، وَالْحَيَاءُ شُعْبَةٌ مِنَ الإِيمَانِ \"(رواه مسل\n",
+          "title_bangla": "হযরত আবু হুরইরহ রদিয়াল্লহু আ’নহু (أبىْ هريْرة رضى الله عنْه) হইতে বর্ণিত আছে যে, রসুলুল্লহ সল্লাল্লহু আ’লাইহি ওয়া সাল্লাম এরশাদ করিয়াছেন, ঈমানের সত্তরের অধিক শাখা রহিয়াছে। তন্মধ্যে সর্বোত্তম শাখা হইল, ‘লা ইলাহা ইল্লাল্লহ’ বলা এবং সর্বনিম্ন শাখা হইল, রাস্তা হইতে কষ্টদায়ক জিনিস সরাইয়া দেওয়া এবং লজ্জা ঈমানের একটি (বিশেষ) শাখা। (মুসলিম)   \n",
+          "title_english": "Abu Hurairah Radiyallahu 'anhu narrates that Rasulullah Sallallahu 'alaihi wasallam said: Iman (faith) has more than seventy branches; the superiormost one is saying of La ilaha illallah (There is none worthy of worship except Allah); and the inferior most is the removal of an obstacle from the way; and Haya is a branch of Iman. (Muslim)  \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4cf",
+          "title_arabic": "عَنْ اَبِيْ بَكْرٍ ‏رَضِيَ اللهُ عَنْهُ قَاَلَ :قاَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ قَبِلَ مِنِّي الْكَلِمَةَ الَّتِي عَرَضْتُ عَلَىَّ عَمِّي فَرَدَّها عَلَىَّ ،فَهِيَ لَهُ نَجَاةٌ (رواه احمد  \n",
+          "title_bangla": "হযরত আবু বকর রদিয়াল্লহু আ’নহু (أبىْ بكْر رضى الله عنْه) হইতে বর্ণিত আছে যে, রসুলুল্লহ সল্লাল্লহু আ’লাইহি ওয়া সাল্লাম এরশাদ করিয়াছেন, যে ব্যক্তি সেই কালিমাকে কবুল করিবে যাহা আমি আমার চাচা (আবু তালেবে)র নিকট (তাহার মৃত্যুর সময়) পেশ করিয়ছিলাম এবং তিনি তাহা প্রত্যাখ্যান করিয়ছিলেন, সেই কালেমা এই ব্যক্তির জন্য (মুক্তির) উপায় হইবে। (আহমাদ)   \n",
+          "title_english": "Abu Bakr Radiyallahu 'anhu narrates that Rasulullah Sallallahu 'alaihi wasallam said: He who accepts from me the Kalimah, which I presented to my uncle (Abu Talib at the time of his death) and he rejected it, this will be a means for his salvation. (Musnad Ahmad)  \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4d0",
+          "title_arabic": "عَنْ اَبِىْ هُرَيْرَةَ ‏رَضِيَ اللهُ عَنْهُ قاَلَ: قاَلَ رَسُوْلُ اللهِ - صلى الله عليه وسلم: جَدِّدُوا إِيمَانَكُم \" ، قِيلَ : يَا رَسُولَ اللَّهِ ، وَكَيْفَ نُجَدِّدُ إِيمَانَنَا ؟ قَالَ : \" أَكْثِرُوا مِنْ قَوْلِ : لَا إِلَهَ إِلَّا اللَّهُ (رواه احمد  \n",
+          "title_bangla": "হযরত আবু হুরইরহ রদিয়াল্লহু আ’নহু (أبىْ هريْرة رضى الله عنْه) হইতে বর্ণিত আছে যে, রসুলুল্লহ সল্লাল্লহু আ’লাইহি ওয়া সাল্লাম এরশাদ করিয়াছেন, আপন ঈমানকে তাজা করিতে থাক। কেহ আরজ করিল, ইয়া রসুলুল্লহ! আমরা আপন ঈমান কিভাবে তাজা করিব? তিনি বলিলেন, লা ইলাহা ইল্লাল্লহ বেশি বেশি বলিতে থাক। (মুসনাদে আহমদ, তাবারানী, তারগীব) \n",
+          "title_english": "Abu Hurairah Radiyallahu 'anhu narrates that Rasulullah Sallallahu 'alaihi wasallam said: Renew your Iman! It was asked: O Rasulallah! How do we renew our Iman? He said: Say frequently La ilaha illallah. (Musnad Ahmad, Tabarani, Targhib) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4d1",
+          "title_arabic": "عَنْ جَابِرِبْنِ عَبْدِ اللهِ رَضِىَ اللهُ عَنْهُمَا يَقُوْلُ: سَمْعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُوْلُ اَفْضَلُ الذِّكْرِ لَا إِلَهَ إِلَّا اللَّهُ وَأَفْضَلُ الدُّعَاءِ اَلْحَمْدُ لِلَّهِ. (رواه الترمذي  \n",
+          "title_bangla": "হযরত জাবের ইবনে আ’ব্দুল্লহ রদিয়াল্লহু আ’নহুমা (جابر بْن عبْد الله رضى الله عنْهما) বলেন, আমি রসুলুল্লহ সল্লাল্লহু আ’লাইহি ওয়া সাল্লামকে এই এরশাদ করিতে শুনিয়াছি যে, সমস্ত যিকিরের মধ্যে সর্বোত্তম যিকির হইল ‘লা-ইলাহা ইল্লাল্লহ’ এবং সব দোয়ার মধ্যে সর্বোত্তম দোয়া হইল ‘আলহা’মদুলিল্লাহ’। (তিরমিযী) \n",
+          "title_english": "Jabir ibn 'Abdullah Radiyallahu 'anhuma narrates: I heard Rasulullah Sallallahu 'alaihi wasallam saying: The best Dhikr (remembrance of Allah) is La ilaha illallah, and the best Du'a (supplication) is Alhamdulillah (Praise be to Allah). (Tirmidhi)\n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4d2",
+          "title_arabic": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : مَا قَالَ عَبْدٌ : لَا إِلَهَ إِلَّا اللَّهُ قَطُّ مُخْلِصًا إِلَّا فُتِحَتْ لَهُ أَبْوَابُ السَّمَاءِ حَتَّى تُفْضِيَ إِلَى الْعَرْشِ مَا اجْتَنَبَ الْكَبَائِرَ (رواه الترمذي وقال هَذَاحديث حَسَنٌ غَرِيبٌ) \n",
+          "title_bangla": "হযরত আবু হুরইরহ রদিয়াল্লহু আ’নহু (أبىْ هريْرة رضى الله عنْه) হইতে বর্ণিত আছে যে, রসুলুল্লহ সল্লাল্লহু আ’লাইহি ওয়া সাল্লাম এরশাদ করিয়াছেন, (যখন) কোন বান্দা অন্তরের এখলাসের সহিত, লা ইলাহা ইল্লাল্লহ বলে, তখন এই কালেমার জন্য নিশ্চিতরূপে আসমানের দরজাসমূহ খুলিয়া দেওয়া হয়। এমনকি এই কালেমা সোজা আরশ পর্যন্ত পৌঁছিয়া যায়। অর্থাৎ সাথে সাথেই কবুল হইয়া যায়। তবে শর্ত হইল, যদি এই কালেমা পাঠকারী কবীরা গুনাহ হইতে বাঁচিয়া থাকে। (তিরমিযী) \n",
+          "title_english": "Abu Hurairah Radiyallahu 'anhu narrates that Rasulullah Sallallahu 'alaihi wasallam said: Whenever a slave (of Allah) says La ilaha illallah sincerely, the doors of the skies are opened (for it to ascend) until it reaches the 'Arsh (Throne of Allah, and is readily accepted) provided he abstains from major sins. (Tirmidhi)\n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4d3",
+          "title_arabic": "عَنْ يَعْلِىْ بْنِ شَدٌَادِ قَالَ حَدٌَثَنِيْ أَبِيْ شَدٌَادِ بْنِ أَوْسٍ وَعُبَادَةُ بْنُ الصٌَامِتُ رَضِيَ اللهُ عَنْهُ حاَضِرٌ يُصَدِّقْهُ قَالَ كُنَّا عِنْدَ الَّنبِيِّ صَلَّى الله ُعَلَيْهِ وَسَلَّمَ فَقَالَ هَلْ فِيْكُمْ غَرِيْبٌ يَعْنِيْ أَْهْلَ الْكِتَابِ؟ فَقُلْنَا ياَ رَسُوْلَ اللهِ فَأَمَرَ بِغَلْقِ الْبَابِ وَقَالَ اِرْفَعُوْا أَيْدِيْكُمْ وَقُوْلُوْا لاَ إِلَهَ إِلاَّ اللهَ ْفَرَفَعْنَا أَيْدِيْنَا َساعَةٌ ثُمَّ وَضَعَ رَسُوْلَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ َيدَهُ ثُمَّ قَالَ اَلْحَمْدُ للِهِ اَلَّلهُمَّ َبعَثْتِنيْ ِبهَذِهِ اْلكَلِمَةِ وَأَمَرْتَنِيْ ِبهَا َووَعَدْتَنِي عَلَيْهَا الْجَنَّةَ وَإِنَّكَ لاَ تُخْلِفُ الْمِيْعَادَ ثُمَّ قَالَ أَبْشِرُوْا فَإِنَّ اللهَ َعَزَّ وَجَلَّ قَدْ غَفَرَ لَكُمََََ (رواه احمد  \n",
+          "title_bangla": "হযরত ইয়ালা ইবনে সাদ্দাদ (রাযিঃ) বলেন, আমার পিতা হযরত সাদ্দাদ (রাযিঃ) এই ঘটনা বর্ণনা করিয়াছেন এবং হযরত উবাদা (রাযিঃ) যিনি সেই সময় উপস্থিত ছিলেন উক্ত ঘটনার সত্যতা স্বীকার করিয়াছেন যে, একবার আমরা নবী করীম রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের খেদমতে উপস্থিত ছিলাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিজ্ঞাসা করিলেন, কোন অপরিচিত ব্যক্তি (অমুসলিম) এই মজলিসে আছে কি? আমরা বলিলাম, কেহ নাই। তিনি এরশাদ করিলেন, দরজা বন্ধ করিয়া দাও । অতঃপর এরশাদ করিলেন, হাত উঠাও এবং বল, লা-ইলাহা ইল্লাল্লাহ। আমরা কিছুক্ষণ হাত উত্তোলন করিয়া রাখিলাম (এবং কালিমায়ে তাইয়্যেবাহ পড়িলাম)। অতঃপর তিনি নিজ হাত নামাইলেন এবং বলিলেন, আলহামদুলিল্লাহ, হে আল্লাহ, আপনি আমাকে এই কালেমা দিয়া প্রেরণ করিয়াছেন এবং আমাকে ইহার (কালেমার তবলীগ করার) হুকুম করিয়াছেন এবং এই কালেমার উপর জান্নাতের ওয়াদা করিয়াছেন। র্আপনি ওয়াদা ভঙ্গকারী নহেন। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে বলিলেন, আনন্দিত হও, আল্লাহ তায়ালা তোমাদেরকে ক্ষমা করিয়া দিয়াছেন। ( মুসনাদে আহমাদ, তাবরানী, বাযযার, মাজমায়ে যাওয়ায়েদ)   \n",
+          "title_english": "Ya'la ibn Shaddad Radiyallahu 'anhu says that my father Shaddad narrated to me in the presence of 'Ubadah ibn Samit Radiyallahu 'anhuma who verified the narration. He said: We were present with Nabi Sallallahu 'alaihi wasallam. He inquired: Is there any stranger amongst you, that is, the people of the Book? We said: No, O Rasulallah! He then asked us to shut the door and said: Raise your hands and say La ilaha illallah. So, we raised our hands for a while (and recited the Kalimah). Afterwards Nabi Sallallahu 'alaihi wasallam lowered his hand and said: Alhamdulillah (Praise be to Allah). O Allah! Verily, You have sent me with this Kalimah and have ordered me to convey it and have promised me Paradise on it, and verily, You do not break Your Promise. He then said addressing the Sahabah: Indeed, rejoice for Allah has forgiven you! (Musnad Ahmad, Tabarani, Bazzar, Majma-'uz-Zawaid)  \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4d4",
+          "title_arabic": "عَنْ اَبِيْ ذَرٍّ ‏رَضِيَ اللهُ عَنْهُ قَاَلَ :قاَلَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا مِنْ عَبْدٍ قَالَ لَا إِلَهَ إِلَّا اللَّهُ ثُمَّ مَاتَ عَلَى ذَلِكَ إِلَّا دَخَلَ الْجَنَّةَ قُلْتُ وَإِنْ زَنَى وَإِنْ سَرَقَ قَالَ وَإِنْ زَنَى وَإِنْ سَرَقَ قُلْتُ وَإِنْ زَنَى وَإِنْ سَرَقَ قَالَ وَإِنْ زَنَى وَإِنْ سَرَقَ قُلْتُ وَإِنْ زَنَى وَإِنْ سَرَقَ قَالَ وَإِنْ زَنَى وَإِنْ سَرَقَ عَلَى رَغْمِ أَنْفِ أَبِي ذَرٍّ (رواه البخاري  \n",
+          "title_bangla": "হযরত আবু যার (রাযিঃ) হইতে বর্ণিত আছে যে, নবী করিম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিয়াছেন, যে ব্যক্তি লা-ইলাহা ইল্লাল্লাহু বলিয়াছে অতঃপর উহার মৃত্যুবরণ করিয়াছে সে অবশ্যই জান্নাতে প্রবেশ করিবে। আমি আরজ করিলাম, যদিও সে যেনা করিয়া থাকে, যদিও সে চুরি করিয়া থাকে? তিনি এরশাদ করিলেন, (হাঁ) যদিও সে যেনা করিয়া থাকে, যদিও সে চুরি করিয়া থাকে। আমি পুনরায় আরজ করিলাম, যদিও সে যেনা করিয়া থাকে, যদিও সে চুরি করিয়া থাকে? তিনি এরশাদ করিলেন, যদিও সে যেনা করিয়া থাকে, যদিও সে চুরি করিয়া থাকে। আমি আরজ করিলাম, যদিও সে যেনা করিয়া থাকে, যদিও সে চুরি করিয়া থাকে? তিনি এরশাদ করিলেন, যদিও সে যেনা করিয়া থাকে, যদিও সে চুরি করিয়া থাকে; আবু যারের অপছন্দ হইলেও সে জান্নাতে অবশ্যই প্রবশ করিবে। (বুখারী)  \n",
+          "title_english": "Abu Dhar Radiyallahu 'anhu narrates that Nabi Sallallahu 'alaihi wasallam said: Whenever a slave of Allah said La ilaha illallah and died believing in it, he surely entered Paradise. I asked: Even if he had fornicated and even if he had stolen? He replied: Even if he had fornicated and even if he had stolen. I again asked: Even if he had fornicated and even if he had stolen? He repeated: Even if he had fornicated and even if he had stolen. I asked the third time: Even if he had fornicated and even if he had stolen? He emphasized: Even if he had fornicated and even if he had stolen, despite your disapproval O Abu Dhar! (Bukhari) .  \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4d5",
+          "title_arabic": "عَنْ حُذَيْفَةَ رَضِيَ الله عَنْهُ قَالَ: «قََالَ رَسُوْلُ اللهِ صَلَّى اللهُ عَلَيْهِ وسَلَّم: «يَدْرُسُ الإِسْلاَمُ كَمَا يَدْرُسُ وَشْيُ الثَّوْبِ، حَتَّى لاَ يُدْرَى مَا صِيَامٌ وَلاَ صَلاَةٌ وَلاَ نُسُكٌ وَلاَ صَدَقَةٌ، وَلَيُسْرَى عَلَى كِتَابِ اللهِ عَزَّ وَجَلَّ فِي لَيْلَةٍ، فَلاَ يَبْقَى فِي الأََرْضِ مِنْهُ آيَةٌ، وَتَبْقَى طَوَائِفُ مِنَ النَّاسِ: الشَّيْخُ الكَبِيرُ، وَالعَجُوزُ، يَقُولُونَ: أَدْرَكْنَا آبَاءَنَا عَلَى هَذِهِ الكَلِمَةِ: لاَ إِلَهَ إِلاَّ اللهُ، فَنَحْنُ نَقُولُهَا». فقال له صِلَةُ: ما تغني عنهم «لا إله إلاَّ اللهُ» وهم لا يدرون ما صلاة ولا صيام ولا نسك ولا صدقة؟ فأَعْرَضَ عنه حذيفةُ، ثمَّ رَدَّهَا عليه ثلاثًا، كُلَّ ذلك يُعرِضُ عنه حذيفةُ، أَقْبَلَ عَلَيْهِ فِيْ الَّثالِثَةِ، فَقَالَ: ياَ صِلَةُ! تُنَجِّيْهِمْ مِنَ الَّنار (رواه الحاكم)  \n",
+          "title_bangla": "হযরত হুজাইফা (রা) হইতে বর্নিত আছে আছে যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিয়াছেন, কাপড়ের কারুকার্য যেমন মুছিয়া ও অস্পষ্ট হইয়া যায় তদ্রূপ ইসলামও একসময় অস্পষ্ট হইয়া যাইবে। এমনকি লোকেরা ইহাও জানবে না যে, রোজা কি জিনিস এবং সদকা ও হজ্জ কি জিনিস। একটি রাত আসিবে যখন অন্তরসমূহ হইতে কুরআন উঠাইয়া লওয়া হইবে, এবং জমিনের উপর উহার একটি আয়াতও অবশিষ্ট থাকিবে না। বিক্ষিপ্তভাবে কিছু বৃদ্ধ পুরুষ ও বৃদ্ধা মহিলা থাকিয়া যাইবে, ইহারা বলিবে যে, আমরা আমাদের মুরুব্বীদের নিকট হইতে এই কালেমা লা ইলাহা ইল্লাল্লাহু শুনিয়াছিলাম এইজন্য আমরাও এই কালেমা পড়িয়া থাকি।হযরত হুজাইফা (রা)এর শাগরিদ সিলা জিজ্ঞসা করিলেন, যখন তাঁহারা রোজা, সদকা, হজ্জ সম্বন্ধে জানিবে না তখন শুধু এই কালেমা তাহাদের কি উপকারে আসিবে। হযরত হুজাইফা (রা) কোন উত্তর দিলেন না। তিনি তিন বার একই প্রশ্ন করিলেন, প্রতিবারেই হযরত হুজাইফা (রা) জওয়াব দেওয়া হইতে বিরত থাকিলেন। তৃতীয়বার (পীড়াপীড়ি) করার পর তিনি বলিলেন, হে সিলা! এই কালেমাই তাহাদেরকে দোযখ হইতে মুক্তি দিবে।(মুস্তাদরাকে হাকেম)   \n",
+          "title_english": "Hudhaifah Radiyallahu 'anhu narrates that Rasulullah Sallallahu 'alaihi wasallam said: Islam will gradually fade as the design on cloth fades, until neither Siyam (fasting), nor Zakat (charity) nor Nusuk (religious devotion and sacrifice) will be known. In a certain night the Qur'an will be lifted from the hearts of men leaving not a single verse on the earth, and only a few groups of people will remain, of old men and old women, saying: We found our forefathers reciting the Kalimah La ilaha illallah, so we are reciting it silah ibn Zufr said to Hudhaifah Radiyallahu 'anhu: How will their saying of La ilaha illallah benefit them when they neither know Siyam, nor Zakat, nor Nusuk? Hudhaifah Radiyallahu 'anhu evaded him So he repeated his question thrice, each time Hudhaifah evaded him. Then, after the third time, he turned and faced him saying: O Silah! It will indeed save them from the Fire. (Mustadrak Hakim)  \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4d6",
+          "title_arabic": "عَنْ أَبِي هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : مَنْ قَالَ : لا إِلَهَ إِلا اللَّهُ نَفَعَتْهُ يَوْمًا مِنْ دَهْرِهِ يُصِيْبُه قََبْلَ ذاَلِك ما اَصاَبَهُ رواه البزاز والطبراني  \n",
+          "title_bangla": "হযরত আবু হুরাইরাহ (রা) হইতে বর্ণিত আছে যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিয়াছেন, যে ব্যক্তি লা ইলাহা ইল্লাল্লাহ বলিয়াছে, একদিন না একদিন এই কালেমা অবশ্যই তাঁহার উপকার করিবে।(নাজাত দান করিবে।) যদিও পূর্বে তাহাকে কিছুটা শাস্তি ভোগ করিতে হয়।(বাযযার, তাবারানী, তারগীব) \n",
+          "title_english": "Abu Hurairah Radiyallahu 'anhu narrates that Rasulullah Sallallahu 'alaihi wasallam said: He who says La ilaha illallah, it shall benefit him (be a means for his salvation) though before that he may be afflicted by what (Punishment) is to befall him. (Bazzar, Tabarani, Targhib)  \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4d7",
+          "title_arabic": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" أَلا أُخْبِرُكُمْ بِوَصِيَّةِ نُوحٍ ابْنَهُ ؟ قَالُوا : بَلَى ، قَالَ : أَوْصَى نُوحٌ ابْنَهُ ، فَقَالَ لابْنِهِ : يَا بُنَيَّ : إِنِّي أُوصِيكَ بِاثْنَتَيْنِ ، وَأَنْهَاكَ عَنِ اثْنَتَيْنِ ، أُوصِيكَ بِقَوْلِ لا إِلَهَ إِلا اللَّهُ ، فَإِنَّهَا لَوْ وُضِعَتْ فِي كِفَّةٍ ، وَوُضِعَتِ السَّمَوَاتُ وَالأَرْضُ فِي كِفَّةٍ ، لَرَجَحَتْ بِهِنَّ ، وَلَوْ كَانَتْ حَلْقَةً لَقَصَمَتْهُنَّ ، حَتَّى تَخْلُصَ إِلَى اللَّهِ . وَبِقَوْلِ سُبْحَانَ اللَّهِ الْعَظِيمِ وَبِحَمْدِهِ ، فَإِنَّهَا عِبَادَةُ الْخَلْقِ ، وَبِهَا تُقْطَعُ أَرْزَاقُهُمْ . وَأَنْهَاكَ عَنِ اثْنَتَيْنِ : الشِّرْكِ وَالْكِبْرِ ، فَإِنَّهُمَا تَحْجُبَانِ عَنِ اللَّهِ ، (الحديث رواه البزاز فيه)  \n",
+          "title_bangla": "হযরত আব্দুল্লাহ ইবনে ওমর (রা) হইতে বর্নিত আছে যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিয়াছেন, হযরত নূহ(আঃ) নিজের ছেলেকে যে উপদেশ দিয়েছিলেন আমি কি তোমাদেরকে তাহা বলিব না ? সাহাবা (রা) আরজ করিলেন, অবশ্যই বলুন। তিনি বলিলেন, হযরত নুহ(আঃ) নিজের ছেলেকে উপদেশ দিলেন, হে আমার ছেলে! তোমাকে দুইটি কাজ করার উপদেশ দিতেছি, আর দুইটি কাজ হইতে নিষেধ করিতেছি। একতো আমি তোমাকে লা ইলাহা ইল্লাল্লাহু বলার হুকুম করিতেছি। কেননা, যদি এই কালেমা এক পাল্লায় রাখিয়া দেওয়া হয়, আর অপর পাল্লায় সমস্ত আসমান জমিনকে রাখিয়া দেওয়া হয়, তবে কালেমার পাল্লা ঝুকিয়া যাইবে। আর যদি সমস্ত আসমান জমিনে একটি বৃত্তে পরিণত হইয়া যায়, তবুও এই কালেমা সেই বৃত্তকে ভাঙ্গিয়া আল্লাহ তাআলার নিকটে পৌছিয়াই যাইবে। দ্বিতীয় জিনিস যাহার হুকুম করিতেছি, তাহা এই যে, “-------আয়াত---------” পড়া, কেননা ইহা সমস্ত সৃষ্টির ইবাদত এবং ইহার বরকতে সমস্ত সৃষ্টিকে রিজিক দেওয়া হয়। আর আমি তোমাকে দুইটি কাজ শিরক ও অহংকার হইতে নিষেধ করিতেছি। কেননা, এই দুইটি গুনাহ বান্দাকে আল্লাহ তাআলা হইতে দূরে সরাইয়া দেয়। (বাযযার, মাজমায়ুয যাওয়ায়েদ)   \n",
+          "title_english": "Abdullah ibn 'Umar Radiyallahu 'anhuma narrates that Rasulullah Sallallahu 'alaihi wasallam said: Shall I not inform you of the advice of Nuh 'Alaihis Salam to his son? They said: Indeed do inform us. He said: Nuh 'Alaihis Salam advised his son saying: O my son! I advise you to act upon two things and forbid you from two. I advise you to say: La ilaha illallah; if it were placed in one pan of the scale, and the skies and the earth in the other pan, it would outweigh them. And if these (the skies and the earth) were to form an invincible circle, it (the Kalimah) would break through the circle and would reach Allah Ta'ala. And I advise you to say: Subhanallahil Azim Wabihamdihi (Glory be to the Most Exalted Allah, and Praise be to Him), as it is the worship of the entire creation, and by it, their sustenance is allotted; and I forbid you from two; Shirk (polytheism) and Kibr (arrogance) because these two evils keep one away from Allah Ta'ala. (Bazzar, Majma-'uz-Zawaid) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4d8",
+          "title_arabic": "عَنْ طَلْحَةَ بْنِ عُبَيْدِ اللَّهِ رَضِيَ الله عَنْهُ قَاَلَ:قََالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنِّي لأَعْلَمُ كَلِمَةً لا يَقُولُهَا رَجُلٌ عِنْدَ حَضْرَةِ الْمَوْتِ إِلا وَجَدَ لَهَا رَوْحًا حِينَ تَخْرُجُ رُوحُهُ مِنْ جَسَدِهِ ، وَكَانَت لَهُ نُورًا يَوْمَ الْقِيَامَةِ (رواه ابو بعلي و رجاله رجال الصحيح)  \n",
+          "title_bangla": "হযরত তালহা ইবনে উবায়দুল্লাহ (রাযিঃ) হইতে বর্ণিত, নবী করিম সাল্লাল্লাহু আলাইহি ওইয়াসাল্লাম এরশাদ করিয়াছেন, আমি এমন একটি কলেমা জানি যাহা কোন মৃত্য নিকটবর্তী ব্যাক্তি পাঠ করিলে তাহার শরীর হইতে রুহ বাহির হওয়ার সময় এই কলেমার বরকতে অবশ্যই আরাম পাইবে। আর ঐ কলেমা তাহার জন্য কেয়ামতের দিন নু্র হইবে(সেই কলেমা হইল লা ইলাহা ইল্লাল্লাহ) (আবু ইয়ালা মাজমায়ুয যাওয়ায়েদ)  \n",
+          "title_english": "Talha ibn 'Ubaidullah Radiyallahu 'anhu narrates that Rasulullah Sallallahu 'alaihi wasallam said: Indeed, I know a Kalimah which if recited by a dying man, will be a means of solace for his departing soul and will be a light for him on the Day oi Resurrection (this Kalimah is La ilaha illallah)- (Abu Ya'la, Majma-'uz- Zawaid)\n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4d9",
+          "title_arabic": "عَنْ أَنَسِ بْنِ مَالِكٍ , رَضِيَ اللَّهُ عَنْهُ , أَنَّ نَبِيَّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَعَلَى آلِهِ وَسَلَّمَ ، قَالَ : \" يَخْرُجُ مِنَ النَّارِ مَنْ قَالَ : لا إِلَهَ إِلا اللَّهُ ، وَكَانَ فِي قَلْبِهِ مِنَ الْخَيْرِ مَا يَزِنُ شَعِيرَةً ، ثُمَّ يَخْرُجُ مِنَ النَّارِ مَنْ قَالَ : لا إِلَهَ إِلا اللَّهُ ، وَكَانَ فِي قَلْبِهِ مِنَ الْخَيْرِ مَا يَزِنُ بُرَّةً ، ثُمَّ يَخْرُجُ مِنَ النَّارِ مَنْ قَالَ : لا إِلَهَ إِلا اللَّهُ ، وَكَانَ فِي قَلْبِهِ مِنَ الْخَيْرِ أَكْثَرُ مَا يَزِنُ ذَرَّةً \" . (بخاري)  \n",
+          "title_bangla": "হযরত আনাস(রাযিঃ) হইতঃ বর্ণিত আছে যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিয়াছেন,এমন প্রত্যেক ব্যাক্তি জাহান্নাম হইতে বাহির হইবে যে লা ইলাহা ইল্লাল্লাহ বলিয়াছে এবং তাহার অন্তরে যবের দানার ওজন পরিমাণও কল্যান নিহিত থাকিবে| অর্থাৎ ঈমান থাকিবে| অতঃপর এরুপ প্রত্যেক ব্যাক্তি জাহান্নাম হইতে বাহির হইবে যে লা ইলাহা ইল্লাল্লাহ বলিয়াছে এবং অন্তরে গমের দানা পরিমাণও কল্যান থাকিবে| অথৎ ঈমান থাকিবে| অতঃপর এরুপ প্রত্যেক ব্যাক্তি জাহান্নাম হইতে বাহির হইবে যে লা ইলাহা ইল্লাল্লাহ বলিয়াছে এবং তাহ অন্তরে অনু পরিমানও কল্যান নিহিত থাকিবে (বোখারী) \n",
+          "title_english": "Anas Radiyallahu 'anhu narrated (in a long narration) that Nabi Sallallahu 'alaihi wasallam said: Each and everyone will be liberated from Fire, who had said La ilaha illallah, and in his heart, there was goodness '(Iman) equal to the weight of a grain of barley. After them everyone will be liberated from the Fire who_ had said: La ilaha illallah, and in his heart, there was goodness (Iman) equal to the weight of a grain of wheat. After that, everyone will be liberated from the Fire who had said: La ilaha illallah, and in his heart, there was goodness (Iman) equal to the weight of a particle of dust. (Bukhari) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4da",
+          "title_arabic": "عَنِ لْمِقْدَادُ بْنُ الأَسْوَدِ رَضِيَ اللَّهُ عَنْهُ ,يَقُوْلُ، : سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" لاَ يَبْقَى عَلَى ظَهْرِ الأَرْضِ بَيْتُ مَدَرٍ وَلا وَبَرٍ إِلا أَدْخَلَ اللَّهُ عَلَيْهِ الإِسْلامَ ،إِمَّا بِعِزِّ عَزِيزٍ ، وَإِمَّا بِذُلِّ ذَلِيلٍ \n",
+          "title_bangla": "হজরত মিকদাদ ইবনে আসওয়াদ(রাযিঃ) বলেন, আমি নবী করিম সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এরশাদ করিতে শুনিয়াছি যে, জমিনের উপর কোন শহর, গ্রাম, মরুভুমির এমন কোন ঘর অথবা তাঁবু বাকি থাকিবে না যেখানে আল্লাহ তায়ালা ইসলামের কালিমাকে দাখিল না করিবেন| যাহারা মানিবে তাহাদিগকে কলেমা ওয়ালা বানাইয়া ইজ্জত দান করিবেন| যাহারা মানিবে না তাহাদেরকে অপদস্ত করিবেন| অতঃপর তাহারা মুসলমানদের অধীনস্ত হইয়া থাকিবে|(মুসনাদে আহমাদ) \n",
+          "title_english": "Miqdad ibn Aswad Radiyallahu 'anhu narrates: I heard Rasulullah Sallallahu 'alaihi wasallam saying: There shall not remain upon the earth a house made of mud or of camel's hair in any city, village or desert, except that Allah will make this Kalimah of Islam to enter into it, either with a big honour and love or with a submissive humiliation- either Allah will honour them by making them from among the people of the Kalimah, or disgrace them by making them live as subjects of the Muslims. (Musnad Ahmad) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4db",
+          "title_arabic": "عَنْ اِبْنِ شِمَاسَةِ الْمَهْرِيِّ، قَالَ: حَضَرْنَا عَمْرَو بْنِ الَعَاصِ، وَهُوَ فِيْ سِيَاقَةِ الْمَوْتِ، يَبْكِيْ طَوِيْلاٌ، وَحَوَّلَ وَجْهَهُ إِلَى الْجِدَارِ فَجَعَلَ ِابْنُهُ يَقُوْلُ: يَا أَبْتَاهُ، أَمَا بَشَّرَكَ رَسُوْلُ الله صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِكَذَا ؟ أَمَا بَشَّرَكَ رَسُوْلُ الله صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِكَذَا ؟ ؟َ قاَلَ: فَأَقْبَلَ بِوَجْهِهِ، فَقَالَ: إِنَّ أَفْضَلَ ماَ نُعِدُّ شَهَادَةُ أَنْ لاَ إِلَهَ إِلَّا اللهُ، وَأَنَّ مُحَمَّدًا رَسُوْلُ الله، إِنّيْ قَدْ كُنْتُ عَلَى أَطْبَاقٍ ثَلاَثٍ، لَقَدْ رَأَيْتُنِيْ وَمَا أَحَدُ أَشَدُّ بَغْضًا لِرَسُوْلِ اللهِ صَلَّى ِاللهُ عَلَيْهِ وَسَلَّمَ مِنّيْ، وَلاَ أَحَبَّ إِلَيَّ أَنْ أَكُوْنَ قَدْ اَسْتمَْكَنْتُ مِنْهُ، فَقَتَلتْهَُ، فَلَوْ مُتُّ عَلَى تِلْكَ اْلحَالِ لَكُنْتُ مِنْ أَهْلِ النَّار . فَلَمَّا جَعَلَ اللهُ الْإِسْلاَمَ فِيْ قَلْبِيْ أَتَيْتُ الَنبِيِّ صَلَّى اللهُ عَليْهِ وَسَلَّمَ، فَقُلْتُ: اَبْسُطْ يَمِيْنَكَ فَلأََبَايِعْكَ، فَبَسَطَ يَمِيْنَهُ، قَالَ: فَقْبَضْتُ يَدَيَّ، قَالَ: \" مَا لَكَ يَا عَمْرُو؟ \" قاَلَ: قُلْتُ: َأَرَدْتُ أَنْ أَشْتَرِطُ، قَالَ : \" تَشْتَرُطُ بِمَاذَا؟ \" قُلْتُ : أَنْ يَغْفِرَ لِيْ ، قَالَ: \" أَماَ عَلِمْتَ أَنَّ الْإِسْلاَمَ يَهْدِمُ مَا كَانَ قَبْلَهُ؟ وَأَنَّ الْهِجْرَةَ تَهْدِمُ ماَ كَانَ قَبْلَهَا؟ وَأَنَّ الْحَجَّ يَهْدِمُ مَا كاَن قَبْلَهُ؟ \" . ْوَمَا كَانَ أَحَدٌ أَحَبٌّ إِلَيَّ مِنْ رَسُوْلِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَلاَ أَجَلَّ فِيْ عَيْنَيَّ مِنْهُ، وَمَا كُنْتُ أَطِيْقُ أَنْ أَمْلأَ عَيْنِيْ مِنْهُ إِجْلاَلاُ لَهُ، وَلَوْ سُئِلْتُ أَنْ أَصِفَهُ مَا أَطَقْتُ؛ لِأنِّيْ لَم ِأكُنْ أَمْلأَ عَيْنَيَّ مِنْهُ، وَلَوْ مُتُّ عَلَى تِلْكَ الْحَالِ لِرَجَوْتُ أَنْ أَكُوْنَ مِنْ أَهْلِ الْجَنَّةَ . ُثُمَّ وَلِيْنَا أَشْيَاءَ مَا أَدْرِيْ مَا حَالِيْ فِيْهَا، فَإِذَا أَنَا مُتُّ فلَاَ تَصَحَبْنِيْ نَاِئحَةُ، وَلاَ نَارٌ، فَإِذَا دَفَنْتُمُوْنِيْ فَشُنُّوْا عَلَيَّ التُّرَابَ شِنٌّا، ثُمَّ أَقِيْمُوْا حَوْلَ قَبْرِيْ قَدْرَ مَا تَنْحَرُ جُزُوْرُ وَيُقْسِم ْلَحْمُهَا، حَتّىَ أَسْتَأْنِسَ بِكُمْ، وَأَنْظِرُ مَاذَا أُرَاجِعَ بِهِ رُسُلَ رَبِّي  \n",
+          "title_bangla": "হযরত ইবনে শিমাসা মাহরী (রহঃ) বর্ণনা করেন যে, আমরা হযরত আমর ইবনে আস (রাযিঃ) এর মৃত্য সময় তাহার নিকট উপস্থিত ছিলাম| তিনি দেওয়ালের দিকে মুখ ফিরাইয়া দীর্ঘ সময় পর্যন্ত কাঁদিতেছিলেন|তাহার পুত্র তাহাকে সান্তনা দেওয়ার জন্য বলিতেছিলেন, আব্বাজান! নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাল্লাম কি আপনাকে অমুক সুসংবাদ দেন নাই ? নবী করীম সাল্লাল্লাহ আলাইহি ওয়াসাল্লাম কি আপনাকে অমুক সুসংবাদ দেন নাই ? অর্থ্যাৎ আপনাকে তো নবী করীম সাল্লাল্লাহূ আলাইহি ওয়াসাল্লাল্লাম বড় বড় সুসংবাদ দান করিয়াছেন| ইহা শুনিয়া তিনি (দেওয়ালের দিক হইতে) মুখ ফিরাইলেন এবং বলিলেন, সর্বোত্তম জিনিস যাহা আমরা (আখেরাতের জন্য) তৈয়ার করিয়াছি তাহা এই কথার সাক্ষ্য যে, আল্লাহ তায়ালা ছাড়া কোন মাবুদ নাই, এবং হযরত মুহাম্মদ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আল্লাহ তালায়ার রসুল। আমার জীবনে তিনটি যুগ অতিবাহিত হইয়াছে। এক যুগ ছিল যখন আমার অপেক্ষা অধিক রাসুলুল্লাহ সাল্লল্লাহু আলাইহি ওয়াসাল্লামের সহিত বিদ্বেষ পোষণকারী আর কেহই ছিল না। তখন আমার সবচেয়ে বড় আকাংখা এই ছিল যে, কোন প্রকারে যদি তাহার উপর আমি সুযোগ পাইয়া যাই তবে তাহাক হত্যা করিয়া ফেলিব। ইহা তো আমার জীবনের সবচেয়ে নিকৃষ্টতম যুগ ছিল।(আল্লাহ না করুন) যদি আমি সেই মৃত্যবরন করিতাম তবে নিঃসন্দেহে জাহান্নামী হইতাম।অতঃপর আল্লাহ তায়ালা যখন আমার অন্তরে ইসলামের সত্যতা ঢালিয়া দিলেন তখন আমি তাঁহার নিকট আসিলাম এবং আমি আরজ করিলাম, আপনার হাতে বাইয়াত করিব। হুযুর সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আপন হাত মোবারক বাড়াইয়া দিলেন, তখন আমি আমার হাত পিছনে টানিয়া নিলাম, তিনি বলিলেন,হে আমর কি ব্যাপার ? বলিলাম, আমি কিছু শর্ত আরোপ করিতে চাই তিনি বলিলেন, কি শর্ত আরোপ করিতে চাও? আমি ইহা বলিলাম যে আমার সমস্ত গুনাহ যেন মাফ হইয়া যায় হুযূর সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিলেন, হে আমর! তুমি কি জাননা যে, ইসলাম কুফরী জিন্দেগীর সমস্ত গুনাহকেই পরিস্কার করিয়া দেয় ? আর হিজরত ও পূর্বের সমস্ত গুনাহ মাফ দেয় আর হজ্জ ও পিছনের সমস্ত গুনাহ শেষ করিয়া দেয়। ইহা সেই যুগ ছিল যখন তাঁহার চেয়ে বেশী প্রিয়, তাহার চেয়ে বেশী সম্মা্নী ও মর্যাদাসম্পন্ন আমার আর কেহই ছিল না তাঁহার কারনে কখনো তাঁহাকে পুর্ন দেখিবার ক্ষমতা আমার ছিল না। যদি আমাকে তাঁহার চেহারা মোবারক সম্পর্কে করা হয় তবে আমি কিছুই বলিতে পারিব না। কেননা আমি কখনও তাহাকে পরিপূর্ণরূপে দেখিই নাই। হায়,যদি আমি সেই মরিয়া যাইতাম তবে আমার আশা হয় যে আমি জান্নাতী হইতাম। অতঃপর আমরা কিছু জিনিসের মুতাওয়াল্লী ও জিম্মাদার হইয়াছি এবং জানি না যে, আমাদের ঐ সকল জিনিসের মধ্যে কিরূপ রহিয়াছে। (ইহা আমার জীবনের তৃ্তীয় যুগ ছিল) আচ্ছা দেখ যখন আমর মৃত্যু হইয়া যাইবে তখন আমার (জানাযার) সহিত যেন কোন বিলাপকারিণী মহিলা যাইতে না পারে।(জাহিলিয়াতের যুগে মত) আমার জানাযার সহিত যেন আগুন না নেওয়া হয়। যখন আমাকে দাফন কার্য শেষ করিবে তখন আমার কবরের উপরে ভালোভাবে মাটি দিও। আর যখন (এক কাজ হইতে অবসর) হইয়া যাইবে তখন আমার কবরের নিকট এই পরিমান সময় অপেক্ষা করিও যে পরিমান সময়ের মধ্যে একটি উট জবাই করিয়া উহার গোশত বণ্টন করা যায়। যাহাতে তোমাদের কারনে আমর অন্তর সান্তনা লাভ করে এবং আমি বুঝিয়া লইতে পারি যে, আমি আপন রবের প্রেরিত ফেরেশতাদের প্রশ্নের কি উত্তর দিতেছি। (মুসলিম) \n",
+          "title_english": "Ibn-e-Shimasa Al Mahri Rahimahullah narrates that we were present with 'Amr ibnil-'As Radiyallahu 'anhuma while he was in the throes of death. After weeping continously, he turned his face towards the wall. At this, his son consoled him saying: O my father! Has Rasulullah Sallallahu 'alaihi wasallam not given you the glad tidings of such and such? Has Rasulullah Sallallahu 'alaihi wasallam not given you the glad tidings of such and such? He then faced us and said: Verily the most excellent thing that we prepare (for ourselves) is the testimony of La ilaha illallahu wa anna Muhammad ur Rasulullah (There is none worthy of worship except Allah, and that Muhammad is His Messenger). Indeed I have passed my life through three stages. I had seen myself when there was no one more bitter in hatred towards Rasulullah Sallallahu 'alaihi wasallam than myself, and no one more desiring to seize an opportunity to kill him than myself! And had I died in that state, I certainly would have been of the people of the Fire. Then, Allah placed Islam in my heart, I came to Rasulullah Sallallahu 'alaihi wasallam and said: Give me your right hand so that I may pledge allegiance to you. He extended his right hand, but I withdrew my hand. At this, he asked: What is with you O 'Amr? I said: I want to make a condition. He said: Make a condition of what? I said: That I be forgiven! He said: Did you not know that (the acceptance of) Islam eradicates the sins committed before it and Hijrah (migration) eradicates the sins committed before it and that Hajj (pilgrimage) eradicates the sins committed before it. @ +@And (thereafter) no one was more revered to me than Rasulullah Sallallahu 'alaihi wasallam. And I could not bear to fill my eyes (with the sight) of him out of reverence for him. And if I were asked to describe him, I would not be able to do so, as I never looked at him to my fill; and had I died in that state, I would have been hopefully amongst the people of Paradise. Afterwards, we were given responsibilities regarding which I know not how I have fared. (This was the third phase of my life) So when I die (see that) I am not accompanied by a wailing woman, or a fire. When you have buried me, mould the mud upon my grave (in the shape of) a mound, then remain standing around my grave for such time as it would take to slaughter a camel and distribute its meat, so that I may feel solace from you, while I see what reply I give to the messengers (angels) of my Rabb. (Muslim)  \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4dc",
+          "title_arabic": "عَنْ عُمَرَ رَضِيَ الله عَنْهُ قَاَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَا ابْنَ الْخَطَّابِ اذْهَبْ فَنَادِ فِي النَّاسِ أَنَّهُ لَا يَدْخُلُ الْجَنَّةَ إِلَّا الْمُؤْمِنُونَ (رواه مسلم\n",
+          "title_bangla": "হযরত ওমর (রায়িঃ) হইতে বর্ণিত আছে যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিয়াছেন, হে খাত্তাবের বেটা! যাও লোকেদের মধ্যে এই ঘোষনা করিয়া দাও যে, জান্নাতে শুধু ঈমানদারগণই প্রবেশ করিবে। \n",
+          "title_english": "Umar Radiyallahu 'anhu narrates Nabi Sallallahu 'alaihi wasallam said: O son of Khattab! Go and announce amongst the people that indeed none shall enter Paradise except the Mu'minun (believers). (Muslim) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4dd",
+          "title_arabic": "عَنْ اَبِىْ لَيْلَى رَضِىَ اللهُ عَنْهُ عَنِ النَّبِىِّ صَلَّ اللهُ عَلَيْهِ وَ سَلَّمَ قَالَ: وَيْحَكَ يَا أَبَا سُفْيَانَ ، قَدْ جِئْتُكُمْ بِالدُّنْيَا وَالآخِرَةِ , فَأَسْلِمُوا تَسْلَمُوا (رواه الطبرانى\n",
+          "title_bangla": "হযরত আবু লায়লা (রাযিঃ) হইতে বর্নিত আছে যে,নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (আবু সুফিয়ানকে) এরশাদ করিয়াছেন, হে আবু সুফিয়ান, তোমাদের অবস্থার উপর আফসোস, আমি তোমাদের নিকট দুনিয়া ও আখেরাত (এ কল্যাণ) লইয়া আসিয়াছি|ইসলাম কবুল করিয়া লও, নিরা্পদ হইয়া যাইবে। (তাবরানী, মাজমাউয যাওয়ায়েদ) \n",
+          "title_english": "Abu Laila Radiyallahu 'anhu narrates that Nabi Sallallahu 'alaihi wasallam said: Woe to you O Abu Sufyan! Indeed I have come to you with (the success of) this world and the Hereafter, so accept Islam, and enter into safety. (Tabarani, Majma-'uz-Zawaid)\n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4de",
+          "title_arabic": "َعَنْ اَنَسٍ رَضِيَ اللهُ عَنْهُ قَالَ سَمِعْتُ رَسُوْلَ اللهِ صَلَّ اللهُ عَلَيْهِ وَ سَلَّمَ يَقُوْلُ:إِذَا كَانَ يَوْمُ الْقِيَامَةِ شُفِّعْتُ فَقُلْتُ يَا رَبِّ! َأْدِخِلِ الْجَنَّةَ مَنْ كَانَ فِيْ قَلْبِهِ خَرْدَلَةٌ فَيَدْخُلُوْنَ ثُمَّ أَقُوْلُ أَدْخِل الْْجَنَّةِ مَنْ كَانَ فِيْ قَلْبِهِ أَدْنَى شَيْء (رواه البخارى  \n",
+          "title_bangla": "হযরত আনাস (রাযি:) বলেন, আমি নবী করীম সাল্লাল্লাহু আলা্ইহি ওয়াসাল্লামকে এরশাদ করিতে শুনিয়াছি যে, যখন কেয়ামতের দিন হইবে তখন আমাকে সুপারিশ করার ইজাযত দেওয়া হইবে ।আমি আরজ করিব, হে আমার রব! এরূপ প্রত্যেক ব্যকত জান্নাতে দাখিল করিয়া দনি যাহার অন্তরে সরিষার দানা পরিমাণও (ঈমান) রহিয়াছে। (আল্লাহ তায়ালা আমার এই সুপারিশ কবুল করিবেন) আর ঐ সমস্ত লোক জান্নাতে দাখিল হইয়া যাইবে। পুনরায় আমি আরজ করিব, এরূপ প্রত্যেক ব্যক্ত্কে জান্নাত দাখিল করিয়া দিন যাহার অন্তরে সামান্য্ পরিমাণও (ঈমান) রহিয়াছে । (বোখারী)   \n",
+          "title_english": "Anas Radiyallahu 'anhu narrates: I heard Nabi Sallallahu 'alaihi wasallam saying: When the Day of Resurrection will take place, I will be allowed intercession, so I will say: O my Rabb! Send to Paradise whoever had in their hearts a mustard seed of Iman (Allah Subhanahu wa Ta'ala will accept my intercession), so they will enter Paradise. Then, I will say: Send to Paradise whoever had in his heart the smallest particle (of Iman). (Bukhari)  \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4df",
+          "title_arabic": "عَنْ أَبِي سَعِيدٍ الخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «يَدْخُلُ أَهْلُ الجَنَّةِ الجَنَّةَ، وَأَهْلُ النَّارِ النَّارَ»، ثُمَّ يَقُولُ اللَّهُ تَعَالَى: «أَخْرِجُوا مِنَ النَّارِ مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ حَبَّةٍ مِنْ خَرْدَلٍ مِنْ إِيمَانٍ. فَيُخْرَجُونَ مِنْهَا قَدِ اسْوَدُّوا، فَيُلْقَوْنَ فِي نَهَرِ الحَيَا، أَوِ الحَيَاةِ - شَكَّ مَالِكٌ - فَيَنْبُتُونَ كَمَا تَنْبُتُ الحِبَّةُ فِي جَانِبِ السَّيْلِ، أَلَمْ تَرَ أَنَّهَا تَخْرُجُ صَفْرَاءَ مُلْتَوِيَةً»(بخارى \n",
+          "title_bangla": "হযরত আবু সাঈদ খুদরী (রযি) হইতে বণিত আছে যে, নবী করীম সাল্লাহ আলাইহি ওয়াসাল্লাম এরশাদ করিয়াছেন, যখন জান্নাতীগণ জান্নাতে ও দোযখীরা দোযখে চলিয়া যাইবে তখন আল্লাহ তায়ালা বলিবেন, যাহার অন্তরে সরিষার দানা পরিমাণও ঈমান রহিয়াছে তাহাকেও জাহান্নাম হইতে বাহির করিয়া লও। সুতরাং তাহাদেরকেও বাহির করা হইবে। তাহাদের অবস্হা এইরপ হইবে যে, জ্বলিয়া কালো বর্ণ হইয়া গিয়াছে। অতঃপর তাহাদেরকে নহরে হায়াতে ফেলা হইবে। তখন তাহারা এমনভাবে (মুহূর্তের মধ্যে সজীব হইয়া) বাহির হইয়া আসিবে যেমন ঢলের আবর্জনাতে দানা (পানি ও সারের কারণে অতি অলপ সময়ে) অঙ্কুরিত হইয়া আসে। তোমরা কি দেখ না যে, উহা কেমন সোনালী ও কোকড়ানো অবস্হায়া বাহির হইয়া আসে ? (বোখারী) \n",
+          "title_english": "Abu Sa'Td Al Khudri Radiyallahu 'anhu reports that Nabi Sallallahu 'alaihi wasallam in a Hadith Qudsi narrated: When the people of Paradise will have entered Paradise, and the people of the Fire will have entered the Fire, Allah Ta'ala will say: Take out from it whosoever had in his heart Iman equal to the weight of a mustard seed. Accordingly, they will be taken out from the Fire, blackened (by it). They will be cast into the River of Life from where they shall sprout afresh, as a seed sprouts on the bank of a torrential stream. Have you not seen how it comes out yellow and curved? (Bukhari)  \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4e0",
+          "title_arabic": "عَنْ أَبِي أُمَامَةَ ، أَنَّ رَجُلا سَأَلَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : مَا الإِيمَانُ ؟ قَالَ : \" إِذَا سَرَّتْكَ حَسَنَتُكَ ، وَسَاءَتْكَ سَيِّئَتُكَ فَأَنْتَ مُؤْمِنٌ  \n",
+          "title_bangla": "হযরত আবু উমামা (রাযিঃ)হইতে বর্ণিত আছে যে, এক ব্যক্তি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকট জিজাসা করিল, ঈমান কি? তিনি এরশাদ করিলেন, যদি তোমার নেক আমল তোমাকে আনন্দিত করে ও তোমার মন্দ কাজ তোমাকে দুঃখিত করে তবে তুমি মুমিন। (মুসতাদরাকে হাকেম\n",
+          "title_english": "Abu Umamah Radiyallahu 'anhu narrates that a man asked Rasulullah Sallallahu 'alaihi wasallam: O Rasulallah! What is Iman? He replied: When your good deed pleases you and your evil deed grieves you, then you are a Mu'min (believer). (Mustadrak Hakim) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4e1",
+          "title_arabic": "عَنِ الْعَبَّاسِ بْنِ عَبْدُ الْمُطَّلِبِ رَضِىَ اللهُ عَنْهُ اَنَّهُ سَمِعَ رَسُوْلَ اللهِ صَلَّ اللهُ عَلَيْهِ وَ سَلَّمَ يَقُوْلُ:ذَاقَ طَعْمَ الْاِيْمَانِ مَنْ رَضِيَ بِاللَّهِ رَبًّا، وَبِالْإِسْلَامِ دِينًا وَبِمُحَمَّدٍ صَلَّ اللهُ عَلَيْهِ وَ سَلَّم نَبِيًّا (رواه مسلم\n",
+          "title_bangla": "হযরত আব্বাস ইবনে আবদুল মুওালিব (রাযিঃ)হইতে বর্ণিত আছে যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়্সল্লমকে এই এরশাদ করিতে শুনিয়াছেন যে, ঐ ব্যওি ঈমানের স্বাদ গ্রহণ করিয়াছে (এবং ঈমানের মজা সে পাইয়াছে) যে আল্লাহ তায়ালাকে রব, ইসলামকে দ্বীন এবং মুহাম্মাদ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) কে রসূল হিসাবে সন্তুষ্টচিত্তে মানিয়া লইয়াছে। (মুসলিম) ফায়দাঃ অর্থাং আল্লাহ তায়ালার বন্দেগী এবং ইসলাম মোতাবেক আমল ও হযরত মুহাম্মাদ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) এর অনুসরণ, আল্লাহ তায়ালা ও তাঁহার রসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) এবং ইসলামের প্রতি মহব্বতের সহিত হয় এই জিনিস যাহার ভাগ্যে জুটিয়াছে নিঃসন্দেহে সে ঈমানের স্বাদেও অংশ লাভ করিয়াছে। \n",
+          "title_english": "Abbas ibn 'Abdul Muttalib Radiyallahu 'anhu narrates: I heard Rasulullah Sallallahu 'alaihi wasallam saying: He has indeed tasted the delightful flavour of Iman; who is pleased with Allah as Rabb, and with Islam as Deen (religion) and with Muhammad Sallallahu 'alaihi wasallam as (Allah's) Messenger. (Muslim)  \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4e2",
+          "title_arabic": "عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: \" ثَلاَثٌ مَنْ كُنَّ فِيهِ وَجَدَ حَلاَوَةَ الإِيمَانِ: أَنْ يَكُونَ اللَّهُ وَرَسُولُهُ أَحَبَّ إِلَيْهِ مِمَّا سِوَاهُمَا، وَأَنْ يُحِبَّ المَرْءَ لاَ يُحِبُّهُ إِلَّا لِلَّهِ، وَأَنْ يَكْرَهَ أَنْ يَعُودَ فِي الكُفْرِ كَمَا يَكْرَهُ أَنْ يُقْذَفَ فِي النَّارِ \" (رواه البخارى  \n",
+          "title_bangla": "হযরত আসান (রাযিঃ)বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিয়াছেন, ঈমানের স্বাদ সেই ব্যক্তি পাইবে যাহার মধ্যে তিনটি বস্তু পাওয়া যাইবে। এক- তাহার অন্তরে আল্লাহ তায়ালা ও তাহার রসূলের মহব্বত সবচেয়ে বেশী হয় । দুই-যে কোন ব্যক্তির সাথেই মহব্বত হয় উহা শুধু আল্লাহর জন্যই হয়। তিন- ঈমানের পরে কুফরের দিকে ফিরিয়া যাওয়া তাহার নিকট এরূপ ঘৃণিত ও কষ্টদায়ক হয় যে্রূপ আগুনে নিক্ষেপ করিলে হয়। (বোখারী) \n",
+          "title_english": "Anas Radiyallahu 'anhu narrates Nabi Sallallahu 'alaihi wasallam said: Whosoever possesses the following three qualities will have tasted the sweetness of Iman: The one who loves Allah and His Rasul more than anything else; the one who loves a person only for the sake of Allah; and the one who hates to return to Kufr (disbelief) as he hates to be thrown into the Fire. (Bukhari)\n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4e3",
+          "title_arabic": "عَنْ أَبِي أُمَامَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَنْ أَحَبَّ فِي اللَّهِ وَأَبْغَضَ فِي اللَّهِ وَأَعْطَى لِلَّهِ وَمَنَعَ لِلَّهِ فَقَدِ اسْتَكْمَلَ الإِيمَانَ \" .(رواه ابو داؤد \n",
+          "title_bangla": "হজরত আবু উমামা (রাযিঃ) হইতে বর্নিত আছে যে রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিয়াছেন, যে ব্যক্তি শুধু আল্লাহ তালায়ার জন্য কাহারো সহিত মহব্বত করিয়াছেন, আর তাহারই জন্য দুশমনী করিয়াছেন, এবং(যাহাকে দান করিয়াছে) আল্লাহ তায়ালার জন্যই দান করিয়াছে, আর (যাহাকে দান করে নাই) আল্লাহ তায়ালার জন্য দান করে নাই সে ঈমানকে পরিপুর্ন করিয়াছে।(আবু দাউদ)\n",
+          "title_english": "Abu Umamah Radiyallahu 'anhu narrates that Rasulullah sallallahu 'alaihi wasallam said: Anyone, who loves for the sake of Allah alone and hates for the sake of Allah alone; gives for the sake of Allah alone and withholds for the sake of Allah alone, has indeed perfected his Iman. (Abu Dawood) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4e4",
+          "title_arabic": "عَنْ اِبْنِ عَبَّاسِ- رَضِيَ اللهُ عَنْهُمَا- قَالَ: قَالَ رَسُوْلُ الله صَلَّى الله عَلَيْهِ وَسَلَّمَ لِأَبِيْ ذَرٍّ: \"يَا أَبَا ذَرٍّ أَيُّ عُرَى اْلإِيْمَانَ أَوْثَقُ؟ قَالَ: اللَهُ وَرَسُوْلُهُ أَعْلَمُ، قَالَ: اَلْمُوَالاَةُ فِيْ اللهِ، وَالْحُبُّ فِيْ اللهِ، وَالْبُغْضُ فِيْ الله \" رواه البيهقي في\"شعب الإيمان  \n",
+          "title_bangla": "হযরত ইবনে আব্বাস (রাযি:) বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হযরত আবু যার (রাযি:) কে এরশাদ করিয়াছেন, বল দেখি ঈমানের কোন কড়াটি বেশী মজবুত? হযরত আবু যর (রাযি:) আরজ করিলেন, আল্লাহ এবং তাহার রসূলই বেশী জানেন। (সুতরাং আপনিই বলিয়া দিন) তিনি এরশাদ করিলেন, আল্লাহ তায়ালার জন্য পরস্পর সম্পর্ক ও সহযোগিতা হয় একং আল্লাহ তায়ালার জন্যর কাহারো সহিত মহব্বত হয় এবং আল্লাহ তায়ালারই জন্য কাহারো সহিত বিদ্বেষ ও শত্রুতা হয়। (বাইহাকী) ফায়দা : ঈমানী শাখাসমূহের মধ্যে সবচেয়ে শঔিশালী ও স্হায়ী শাখা এই যে, দুনিয়াতে বান্দা কাহারো সহিত যে কোন আচরণ করে, চাই উহা সম্পর্ক স্হাপনের হউক বা ছিন্নকরণের হউক, মহব্বতের হউক বা শত্রুতার হউ্রক উহা যেন নিজের নফসের চাহিদা হিসাবে না হয়, বরংশুধু আল্লাহ তায়ালার জন্য হয় এবং তাহারই আদেশক্রমে হয়। ফায়দা : অর্থাং ঈমানী শাখাসমূহের মধ্যে সবচেয়ে শঔিশালী ও স্হায়ী শাখা এই যে, দুনিয়াতে বান্দা কাহারো সহিত যে কোন আচরণ কর, চাই উহা মম্পর্ক স্হাপনের হউক বা ছিন্নকণের হউক, মহব্বতের হউক বা শঐতার হউক উহা যেন নেজের নফসের চাহিদা হিসাবে না হয়, বরং শ্তধু আল্লাহ তায়ালার জন্য হয় এবং তাহারই আদেশঐমে হয়। \n",
+          "title_english": "Ibne' Abbas Radiyallahu 'anhuma narrates that Nabi Sallallahu 'alaihi wasallam asked Abu Dhar: O Abu Dhar! Which hand-hold of Iman is most trustworthy? He replied: Allah 'Azza wa Jalil, and His Rasool know best. He said: Friendship for the sake of Allah alone, love for the sake of Allah alone and hatred for the sake of Allah alone. (Baihaqi) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4e5",
+          "title_arabic": "عَنْ أَنَسِ بْنِ مَالِكٍ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: \" طُوبَى لِمَنْ آمَنَ بِي وَرَآنِي \" مَرَّةً، \" وَطُوبَى لِمَنْ آمَنَ بِي وَلَمْ يَرَنِي \" سَبْعَ مِرَارٍ (رواه احمد\n",
+          "title_bangla": "হযরত আনাস ইবনে মালেক (রাযি:)বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিয়াছেন, যে ব্যক্তি আমাকে দেখিয়াছে এবং আমা্র উপর ঈমান আনিয়াছে তাহার জন্য তো একবার মোবারকবাদ। আর যে আমাকে দেখে নাই তারপরও আমার উপর ঈমান আনিয়াছে তাহাকে বারবার মোবারকবাদ। (মুসনাদে আহমাদ) \n",
+          "title_english": "Anas ibn Malik Radiyallahu 'anhu narrates that Rasulullah Sallallahu 'alaihi wasallam said: Good tidings to the one who has believed in me and seen me; and good tidings seven times over to the one who has believed in me and has not seen me. (Musnad Ahmad) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4e6",
+          "title_arabic": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ رَحِمَهُ اللهُ قَالَ: ذَكَرُوْ عِنْدَ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ أَصْحَابَ مُحَمَّدٍ -صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ- وَاِيْمَانَهُمْ قَالَ فَقَالَ عَبْدُ اللَّهِ: إِنَّ أَمْرَ مُحَمَّدٍ -صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ- كَانَ بَيِّنًا لِمَنْ رَآهُ, وَالَّذِي لَا إِلَهَ غَيْرُهُ مَا آمَنَ أَحَدٌ قَطُّ إِيمَانًا أَفْضَلَ مِنْ إِيمَانٍ بِالْغَيْبِ, ثُمَّ قَرَأَ: {الم ذَلِكَ الْكِتَابُ} إِلَى قَوْلِهِ: }تَعَالاَ يُؤْمِنُونَ بِالْغَيْب (رواه الحاكم  \n",
+          "title_bangla": "হযরত আবদুর রহমান ইবনে ইয়াযীদ (রহ:)বলেন, হযরত আবদুল্লাহ (রাযি:)এর সম্মুখে কিছু লোক রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাহাবা ও তাহাদের ঈমানের আলোচনা উত্থাপ্ন করিল। এই পরিপ্রেক্ষিতে হযরত আবদুল্লাহ (রাযি:)বলিলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে যাহারা দেখিয়াছেলেন তাহাদের সামনে তাঁহার সত্যতা একেবারেই সুস্পট ও পরিস্কার ছিল। সেই সওার কসম যিনি ছাড়া আর কোন মা’বুদ নাই। সবচেয়ে উত্তম ঈমান ঐ ব্যক্তির যে না দেখিয়া ঈমান আনিয়াছে। অত:পর ইহার প্রমাণ হিসাবে তিনি এই আয়াত পড়েলেন_ {الم(1)ذَلِكَ الْكِتَابُ لا رَيْبَ فِيهِ অর্থ : আলিফ, লাম_ মীম, এই কিতাব, উহাতে কোন সন্দেহ নাই, মুত্তাকীনের জন্য হেদায়েত স্বরপ, যাহারা গায়েবের প্রতি ঈমান রাখে। (মুসতাদরাকে হাকেম)\n",
+          "title_english": "Abdur Rahman ibn Yazid Rahimahullah narrates that some people mentioned the Sahabah of Muhammad Sallallahu 'alaihi wasallam and their Iman before 'Abdullah Radiyallahu 'anhu. So, 'Abdullah said: Verily, the prophethood of Muhammad Sallallahu 'alaihi wasallam was clear and obvious for anyone who had seen him. And I swear by the One, besides Whom there is no one worthy of worship, no believer has a faith better than the belief in the Unseen. He then recited (from Al-Baqarah 2:1) AlifLam Mim Dhalikal Kitabu la rayba fih...bil Ghaib 'This is the Book (the Qur'an), whereof there is no doubt, a guidance to those who are Al-Muttaqun pious and righteous persons — who believe in the unseen!' (Mustadrak Hakim)\n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4e7",
+          "title_arabic": "عَنْ أَنَسٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ, صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \"وَدِدْتُ أَنِّي لَقِيتُ إِخْوَانِي\" قَالَ: فَقَالَ أَصْحَابُ النَّبِيِّ, صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: نَحْنُ إِخْوَانُكَ. قَالَ: \"أَنْتُمْ أَصْحَابِي وَلَكِنَّ إِخْوَانِي الَّذِينَ آمَنُوا بِي وَلَمْ يَرَوْنِي\"(مسند احمد \n",
+          "title_bangla": "হযরত আনাস ইবনে মালেক (রয়িঃ) বর্ণনা করেব, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিয়াছেন, আমার আকাঙ্ক্ষা হয়, যদি আমার ভাইদের সহিত সাক্ষ্যাত হইত! সাহাবা (রয়িঃ) আরজ করিলেন, আমরা কি আপনার ভাই নই? তিনি এরশাদ করিলেন, তোমরা তো আমার সাহাবী। আমার ভাই হইল তাহারা যাহারা আমাকে না দেখিয়া আমার উপর ঈমান আনিবে।(মুসনাদে আহমাদ)।\n",
+          "title_english": "Anas ibn Malik Radiyallahu 'anhu narrates that Rasulullah Sallallahu 'alaihi wasallam said: I wish that I could meet my brothers. The Sahabah of Nabi Sallallahu 'alaihi wasallam asked: Are we not your brothers? He replied: You are my companions, but my brothers are those who will believe in me without having seen me. (Musnad Ahmad)  \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4e8",
+          "title_arabic": "عَنْ اَبِىْ مُوْسَي رَضِيَ اللَّه عَنْهُ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ «ثَلَاثَةٌ لَهُمْ أَجْرَانِ: رَجُلٌ مِنْ أَهْلِ الْكِتَابِ آمَنَ بِنَبِيِّهِ وَآمَنَ بِمُحَمَّدٍ - صلى الله عليه وآله وسلم -، وَالْعَبْدُ الْمَمْلُوكُ إِذَا أَدَّى حَقَّ اللهِ وَحَقَّ مَوَالِيهِ، وَرَجُلٌ كَانَتْ عِنْدَهُ أَمَةٌ فَأَدَّبَهَا فَأَحْسَنَ تَأْدِيبَهَا وَعَلَّمَهَا فَأَحْسَنَ تَعْلِيمَهَا ثُمَّ أَعْتَقَهَا فَتَزَوَّجَهَا فَلَهُ أَجْرَانِ» (رواه الإمام البخاري) \n",
+          "title_bangla": "হযরত আবু মূসা (রয়িঃ) হইতে বর্ণিত আছে যে, রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিয়াছেন, তিন ব্যাক্তি এমন আছে যে, তাহাদের জন্য দ্বিগুন সওয়াব রহিয়াছে। প্রথমতঃ ঐ ব্যাক্তি, যে আহ্লে কিতাবের অন্তর্ভুক্ত (ইহুদী বা ঈসায়ী) নিজের নবীর উপর ঈমান আনিয়াছ্রে আবার মুহাম্মাদ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) উপরও ঈমান আনিয়াছে। দ্বিতীয়তঃ ঐ ক্রীতদাস যে আল্লাহ তায়ালার হকসমূহ আদায় করিয়াছে এবং আপ্ন মনিবের হকসমূহ আদায় করিয়াছে। তৃতীয়ঃ ঐ ব্যাক্তি যাহার কোন ক্রীতদাসী থাকে। আর সে তাহাকে উত্তম আদব শিক্ষা দিয়াছে এবং উত্তমরুপে এলেম শিক্ষা দিয়াছে। অতপরঃ তাহাকে মুক্ত করিয়া বিবাহ করিয়া লইয়ছে তাহার জন্য দ্বিগুন সওয়াব। (বুখারী) ফায়দাঃ হাদীস শরীফের উদ্দেশ্য হইল, এই সকল লোকের আমলনামায় অন্যদের তুলনায় প্রত্যেক আমলের সওয়াব দ্বিগুন লেখা হইবে। যেমন দৃষ্টান্তসরূপ অন্য কোন ব্যাক্তি নামায পড়িলে দশগুন সওয়াব পাইবে। আর এই আমলই উক্ত তিন প্রকার লোকেদের মধ্য হইতে কেহ করিলে বিশগুন সওয়াব পাইবে।  \n",
+          "title_english": "Abu Musa Radiyallahu 'anhu narrates that Rasulullah Sallallahu 'alaihi wasallam said: There are three types of people, who will have a double reward: A man from among the people of the Book (Jew or Christian), who believed in his Prophet and (also) believed in Muhammad Sallallahu 'alaihi wasallam; a slave when he fulfils the rights (duties) of Allah as well as the rights of his master; and a man who possessed a maid-servant and brought her up in an excellent manner and educated her with the best of knowledge and then set her free and married her, for him is a double reward. (Bukhari) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4e9",
+          "title_arabic": "عَنْ اَوْسَطِ رَحْمَةُ اللهِ قال خَطَبَنَا أَبُو بَكْرٍرَضِيَ الله عَنْهُ، فَقَالَ: قَامَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مَقَامِي هَذَا عَامَ الْأَوَّلِ، وَبَكَى أَبُو بَكْرٍ، فَقَالَ أَبُو بَكْرٍ: سَلُوا اللهَ الْمُعَافَاةَ - أَوْ قَالَ: الْعَافِيَةَ - فَلَمْ يُؤْتَ أَحَدٌ قَطُّ بَعْدَ الْيَقِينِ أَفْضَلَ مِنَ الْعَافِيَةِ - أَوِ الْمُعَافَاةِ (رواه احمد \n",
+          "title_bangla": "হযরত আওসাত (রহঃ) বলেন, হযরত আবু বকর (রাযিঃ) আমাদের সম্মুখে বয়ান করিতে যাইয়া বলিলেনঃ এক বছর পূর্বে রাসূলুল্লাহ সাল্লাল্লাহূ আলাইহি ওয়াসাল্লাম আমার এই স্থানে (বয়ান করার জন্য) দাঁড়াইয়াছিলেন। ইহা বলিয়াই হযরত আবু বকর (রাযিঃ) কাদিয়া ফেলিলেন। অতঃপর বলিলেন, আল্লাহ তায়ালার নিকট (নিজের জন্য) আফিয়াত ও নিরাপত্তা চাও। কেননা ঈমান ও ইয়াকিনের পরে আফিয়াত হইতে বড় কোন নেয়ামত কাহাকেও দান করা হয় নাই। (মুসনাদে আহমাদ) \n",
+          "title_english": "Awsat Rahimahullah narrated that Abu Bakr Radiyallahu 'anhu addressed us saying: A year ago Rasulullah Sailallahu 'alaihi wasallam stood at this very place where I am standing. And thereafter, Abu Bakr began to weep. Then Abu Bakr Radiyallahu 'anhu said: Ask Allah for Afiyah (well being) as no one has been given anything better than 'Afiyah after Yaqin (certainty in faith). (Musnad Ahmad)  \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4ea",
+          "title_arabic": "عَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ اَبِيْهِ عَنْ جَدِّهِ رَضِىَ اللهُ عَنْهُمَا اَنَّ الَّنِبَّي صَلَّى اللهُ عَلَيْهِ وسَلَّم قَالَ:اَوَّلُ صَلاَحُ هَذِهِ الاُمَّةِ بِاالْيَقِيْنِ وَالُّزهْدِ وَاَوَّلُ فَسَادِهَا بِا الْبُخْلِ وَ الْعَمَل (رواه البيهقى فى شعب الايمان\n",
+          "title_bangla": "হযরত আমর ইবনে শুয়াইব (রাযিঃ) হইতে তিনি তাঁহার পিতা হইতে তিনি তাঁহার দাদা হইতে বর্ণনা করেন যে, নবী করীম সাল্লাল্লাহূ আলাইহি ওয়াসাল্লাম এরশাদ করিয়াছেন, এই উম্মাতের সংশোধনের শুরু হইয়াছে ইয়াকীন ও দুনিয়ার প্রতি অনাসক্তির দ্বারা। আর উহার ধবংসের শুরু হইবে কৃপনতা ও দীর্ঘ আশা আকাঙ্ক্ষার কারনে। (বায়হাকী)\n",
+          "title_english": "Abdullah ibn 'Amr Radiyallahu 'anhuma narrates that indeed Nabi Sallallahu 'alaihi wasallam said: The beginning of the reformation of this Ummah was due to firm belief and abstaining from worldly pleasures and the beginning of the decline of this Ummah will be due to miserliness and long hopes. (Baihaqi) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4eb",
+          "title_arabic": "عَنْ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَوْ اَنَّكُمْ كُنْتُمْ تَوَكَّلُوْنَ عَلَ اللهِ حَقَّ تَوَكُّلِهِ لَرَزَقْتُمْ كَمَا تَرْزَقُ الَّطيْرُ تَغْدُوْ خِمَاصُا وَ تَرُوْحُ بِطَانٌا(رواه الترمذى \n",
+          "title_bangla": "হযরত ওমর ইবনে খাত্তাব(রাযিঃ) হইতে বর্ণিত আছে যে,রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এরশাদ করিয়াছেন,তোমরা যদি আল্লাহ তায়ালার উপর এমনভাবে তাওয়াক্কুল করিতে আরম্ভ কর যেমন তাওয়াক্কুলের হক রহিয়াছে তবে তোমাদিগকে এমনভাবে রুজী দান করা হইবে যেমন পাখিদেরকে রুজী দান করা হয়। উহারা সকালে খালি পেটে বাহির হইয়া যায় এবং বিকালে ভরা পেটে ফিরিয়া আসে।(তিরমিযী)\n",
+          "title_english": "Umar ibnil-Khattab Radiyallahu 'anhu narrates that Rasulullah Sallallahu 'alaihi wasallam said: Indeed, if you put your faith completely in Allah, as it ought to be, then surely you will be provided sustenance as birds are provided for. They leave in the morning with their empty stomachs and return in the evening duly filled. (Tirmidhi) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4ec",
+          "title_arabic": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا , أَخْبَرَهُ : أَنَّهُ غَزَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قِبَلَ نَجْدٍ , فَلَمَّا قَفَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَفَلَ مَعَهُ , فَأَدْرَكَتْهُمُ الْقَائِلَةُ فِي وَادٍ كَثِيرِ الْعِضَاهِ , فَنَزَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَتَفَرَّقَ النَّاسُ فِي الْعِضَاهِ يَسْتَظِلُّونَ بِالشَّجَرِ , وَنَزَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَحْتَ سَمُرَةٍ فَعَلَّقَ بِهَا سَيْفَهُ , قَالَ جَابِرٌ : فَنِمْنَا نَوْمَةً , ثُمَّ إِذَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَدْعُونَا فَجِئْنَاهُ , فَإِذَا عِنْدَهُ أَعْرَابِيٌّ جَالِسٌ , فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنَّ هَذَا اخْتَرَطَ سَيْفِي وَأَنَا نَائِمٌ , فَاسْتَيْقَظْتُ وَهُوَ فِي يَدِهِ صَلْتًا , فَقَالَ لِي : مَنْ يَمْنَعُكَ مِنِّي ؟ قُلْتُ : اللَّهُ \"ثَلَاثٌ وَلَمْ يُعَاقِبْهُ وَجَلَس(رواه البخارى\n",
+          "title_bangla": "হযরত জাবের বিন আব্দুল্লাহ (রয়িঃ) হইতে বর্ণিত আছে যে, তিনি রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সহিত সেই জিহাদে শরীক ছিলেন, যাহা নাজদ অভিমুখে হইয়াছিল। যখন রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিহাদ হইতে ফিরিয়া আসিলেন তখন তিনিও তাঁহার সহিত ফিরিলেন। (ফেরার পথে এই ঘটনা ঘটিল) সাহাবা (রায়িঃ) দুপুরের সময় বাবলা গাছে ভরা এক ময়দানে পৌছিলেন। রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেখানে বিশ্রাম লওয়ার জন্য থামিলেন। সাহাবায়ে কেরাম (রয়িঃ) গাছের ছায়ার তালাশে এদিক সেদিক ছড়াইয়া পড়িলেন। রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামও আরাম করিবার জন্য বাবলা গাছের নিচের জায়গা লইলেন এবং গাছের সহিত নিজের তরবারীটি ঝুলাইয়া রাখিলেন। আমরাও কিছু সময় এর জন্য (বিভিন্ন গাছের ছায়াতে) ঘুমাইয়া পড়িলাম। হঠাত (আমরা শুনিতে পাইলাম যে,) রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে ডাকিতেছেন। (যখন আমরা সেখনে পৌছিলাম) তখন তাঁহার নিকট একজন গ্রাম্য কাফের উপস্থিত ছিল। রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিলেন, আমি ঘুমাইতেছিলাম, এমতাবস্থায় সে আমার উপর আমারই তরবারী উত্তোলন করিয়াছ। জাগ্রত হইয়া দেখিলাম আমার খোলা তরবারীটি তাহার হাতে রহিয়াছে। সে আমাকে বলিল, তোমাকে আমার হাত হইতে কে বাচাইবে? আমি তিনবার বলিলাম আল্লাহ রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেই গ্রাম্য লোকটিকে কোন শাস্তি দিলেন না এবং উঠিয়া বসিয়া গেলেন। (বোখারী) \n",
+          "title_english": "Jabir ibn 'Abdullah Radiyallahu 'anhuma narrated that he accompanied Rasulullah Sallallahu 'alaihi wasallam in an expedition towards Najd; and when Rasulullah Sallallahu 'alaihi wasallam was returning from this expedition, he was with him. At noon, they reached a valley, full of thorny trees. Rasulullah Sallallahu 'alaihi wasallam dismounted and the people dispersed amongst the trees, seeking shade. Rasulullah Sallallahu 'alaihi wasallam rested under a tree and hung his sword on it. We slept for a while when Rasulullah sallallahu 'alaihi wasallam suddenly called us, and there was a Beduin disbeliever with him. He said: This (Beduin) drew my sword at me while I was asleep: So I woke up, while the naked sword was in his hand and he said to me: Who can save you from me? I said to him three times: Allah! Rasulullah Sallallahu 'alaihi wasallam did not punish him and sat down. (Bukhari)  \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4ed",
+          "title_arabic": "عَنْ صَالِحِ بْنِ سَمَّارٍ ، وَجَعْفَرِ بْنِ بُرْقَانَ ، أن النَّبِيَّ ، صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ لِلْحَارِثِ بْنِ مَالِكٍ مَا أَنْتَ يَا حَارِثُ بْنَ مَالِكٍ ؟ أَوْ قَالَ : يَا حَارُ ؟ قَالَ : مُؤْمِنٌ يَا رَسُولَ اللَّهِ ، قَالَ : مُؤْمِنٌ حَقًّا ؟ قَالَ : مُؤْمِنٌ حَقًّا ، قَالَ : فَإِنَّ لِكُلِّ حَقٍّ حَقِيقَةً , فَمَا حَقِيقَةُ ذَلِكَ ؟ قَالَ : عَزَفَتْ نَفْسِي عَنِ الدُّنْيَا ؛ فَأَسْهَرْتُ لِيَلِيَ ، وَأَظْمَأْتُ نَهَارِي ، وَكَأَنِّي أَنْظُرُ إِلَى عَرْشِ رَبِّي حِينَ يُجَاءُ بِهِ ، وَكَأَنِّي أَنْظُرُ إِلَى أَهْلِ الْجَنَّةِ يَتَزَاوَرُونَ فِيهَا ، وَكَأَنِّي أَسْمَعُ عُوَاءَ أَهْلِ النَّارِ ، فَقَالَ النَّبِيُّ ، صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : مُؤْمِنٌ نَوَّرَ اللَّهُ قَلْبَهُ (رواه عبد الرزاق فى مصنفه \n",
+          "title_bangla": "হযরত সাহেল ইবনে মিসমার ও হযরত জাফর ইবনে বুরকান (রহঃ) বলেন, রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হযরত মালেক ইবনে হারেস (রায়িঃ) কে জিজ্ঞাসা করিলেন (আল্লাহ তায়ালার মেহেরবানীতে) আমি ঈমানের অবস্থায় আছি। তিনি জিজ্ঞাসা করিলেন, তুমি কি প্রকৃত মুমিন? তিনি আরজ করিলেন, আমি প্রকৃত মুমিন। রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিলেন, (চিন্তা করিয়া বলো) প্রত্যেক জিনিসের একটি হাকিকত হয়, তোমার ঈমানের হাকিকত কি? অ্থাত তুমি কিসের ভিত্তিতে এই দাবী করিতেছ যে, 'আমি প্রকৃত মুমিন'। তিনি আরজ করিলেন, (আমার কথার হাকিকত এই যে,) আমি আমার অন্তরকে দুনিয়া হইতে সরাইয়া লইয়াছি, রাত্রি জাগরন করি, দিনের বেলায় পিপাসার্ত থাকি (অর্থাৎ রোযা রাখি) আর যখন আমার রবের আরশকে আনা হইবে সেই দৃশ্য যেন আমি দেখিতেছি। বেহেশতীদের পরস্পর দেখা সাক্ষাতের দৃশ্য আমার চোখের সামনে ভাস্মান থাকে। আর জাহান্নামীদের চিতকার যেন (আমি নিজ কানে) শুনিতেছি। অর্থাৎ সর্বদা বেহেশ্ত ও দোযখের কল্পনা বিদ্যমানথাকে। তিনি (তাহার এই কথাবার্তা শুনিয়া) বলিলেন, হারিস এম্ন মুমিন যাহার অন্তর ঈমানের নূর দারা আলোকিত হইয়া গিয়াছে। (মুসান্নাফে আব্দুর রাজ্জাক) \n",
+          "title_english": "Salih ibn Mismar and Ja'far ibn Burqan Rahimahullah narrate that Nabi Sallallahu 'alaihi wasallam asked Harith ibn Malik: How are you, O Harith ibn Malik? He replied: A Mu'min, O Rasulallah! He asked: A true Mu'min! He replied: A true Mu'min. Nabi Sallallahu 'alaihi wasallam said: For every truth, there is a reality. So what is the reality of your Iman? He replied: I have turned myself away from the world, and pass my nights awake (in worship) and pass my days in thirst (fasting). And as if I am seeing the l Arsh (Throne) of my Rabb when it shall be brought, and as if I am seeing the people of Paradise visiting one another therein, and as if I am hearing the howling of the people of the Fire! At that, Rasulullah Sallallahu 'alaihi wasallam said: (Harith is) A Mu'min whose heart has been enlightened. (Musannaf 'Abdur Razzaq) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4ee",
+          "title_arabic": "‏عَنْ ‏ ‏مَاعِزٍ رَضِيَ اللَّهُ عَنْهُ ‏ ‏عَنِ النَّبِيِّ ‏ ‏صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ‏ ‏أَنَّهُ سُئِلَ ‏ ‏أَيُّ اْلأَعْمَالِ أَفْضَلُ؟ قَالَ إِيْمَانُ بِاللهِ وَحْدَهُ ثُمَّ الْجِهَادُ ثُمَّ حَجَّةٌ بَرَّةٌ تَفْضُلُ سَاِئرَ الْعَمَلِ كَمَا بَيْنَ مَطْلِعَ الشَّمْسِ إِلَى مَغْرِبِهَا (رواه احمد\n",
+          "title_bangla": "হযরত মায়েয (রায়িঃ) হইতে বর্ণিত আছে যে, রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে জিজ্ঞাসা করা হইল, আমলের মধ্যে সর্বোত্তম আম্ল কি? রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিলেন, (সমস্ত আমলের মধ্যে সর্বোত্তম আমল) আল্লাহর উপর ঈমান আনা, যিনি একা, অতঃপর জিহাদ করা, অতঃপর মকবুল হজ্জ। এই সকল আমল ও অন্যান্য আমলের মধ্যে ফজিলতের দিক হইতে এই পরিমান ব্যবধান রহিয়াছে যে পরিমান পূর্ব ও পশ্চিমের মধ্যে দূরুতেব্র ব্যবধান রহিয়ছে। (মুসনাদে আহমাদ) \n",
+          "title_english": "Ma'iz Radiyallahu 'anhu narrates that Nabi Sallallahu 'alaihi wasallam was asked which of the deeds are most virtuous? He said: Iman on Allah the One, then Jihad, and then an accepted Hajj. These surpass all other deeds (in excellence), as the distance between the rising of the sun and its setting in the west. (Musnad Ahmad)\n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4ef",
+          "title_arabic": "عَنْ أَبِي أُمَامَةَ، قَالَ: ذَكَرَ أَصْحَابُ رَسُولِ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمًا عِنْدَهُ الدُّنْيَا، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَلَا تَسْمَعُونَ، أَلَا تَسْمَعُونَ، إِنَّ الْبَذَاذَةَ مِنَ الْإِيمَانِ، إِنَّ الْبَذَاذَةَ مِنَ الْإِيمَانِ» يَعْنِي التَّقَحُّلَ.(رواه ابو داؤد \n",
+          "title_bangla": "হযরত আবু উমামা (রয়িঃ) বলেন যে, রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাহাবা (রায়িঃ) একদিন তাঁহার সামনে দুনিয়ার আলোচনা করিলেন। তখন রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিলেন, মনোযোগ দিয়া শোন, মনোযোগ দিয়া শোন, নিঃসন্দেহে সাদাসিধা জীবন ঈমানের অংশ। নিঃসন্দেহে সাদাসিধা জীবন ঈমানের অংশ। (আবু দাউদ) \n",
+          "title_english": "Abu Umamah Radiyallahu 'anhu narrates that one day the Sahabah of Rasulullah Sallallahu 'alaihi wasallam mentioned about the (luxuries of the) world in his presence. So, Rasulullah Sallallahu 'alaihi wasallam (drawing the attention of the Sahabah to emphasize strongly the importance of the topic) said: Behold! Will you not listen? Behold! Will you not listen? Verily, a simple, humble hardy life emanates from Iman. Verily, a simple, humble hardy life emanates from Iman. Meaning thereby, a hardy life with simple clothes and giving up luxuries of life to such an extent that a person's skin becomes dry. (Abu Dawud)  \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4f0",
+          "title_arabic": "عَنْ عَمْرِو بْنِ عَبَسَةَ رَضِيَ اللهُ عَنْهُ قَاَلَ قال: فَأَيُّ الإْيْمَانِ أَفْضَلُ؟ قَالَ: (اَلْهِجْرَةُ)، قَالَ: فَمَا الْهِجْرَةُ؟ قَالَ: تَهْجُرُ السُّوْءَ(وهو بعض الحديث رواه احمد  \n",
+          "title_bangla": "হযরত আমর ইবনে আবাসা (রায়িঃ) হইতে বর্ণিত আছে যে, তিনি রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে জিজ্ঞাসা করিলেন, কোন ঈমান সবাপেক্ষা উত্তম? রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিলেন, ঐ ঈমান যাহার সহিত হিজরত যুক্ত হয়। তিনি জিজ্ঞাসা করিলেন, হিজরত কি? এরশাদ করিলেন, হিজরত এই যে, তুমি মন্দ কাজ পরিত্যাগ কর। (মুসনাদে আহমাদ)   \n",
+          "title_english": "Amr ibn 'Abasah Radiyallahu 'anhu asked: Which Iman is the best? Nabi Sallallahu 'alaihi wasallam replied: Hijra (generally it means migration). And then asked: What is Hijra? Nabi Sallallahu 'alaihi wasallam replied: To forsake evil. (Masnad Ahmad)  \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4f1",
+          "title_arabic": "عَنْ سُفْياَنِ بْنِ عَبْدِ اللهِ الَثَقَفِىْ رَضِيَ اللهُ عَنْهُ قَاَلَ:قُلْتُ يَا رَسُوْلَ اللهِ ! قُلْ لِي فِي الْإِسْلَامِ قَوْلًا لَا أَسْأَلُ عَنْهُ أَحَدًا غَيْرَكَ, قَالَ: \"قُلْ: آمَنْتُ بِاللَّهِ ثُمَّ اسْتَقِمْ(رواه مسلم \n",
+          "title_bangla": "হযরত সুফিয়ান ইবনে আব্দুল্লাহ সাকাফি (রাযিঃ) বলেন, আমি আরজ করিলাম, ইয়া রাসূলাল্লাহ! আমাকে ইসলামের (ব্যাপক অর্থবোধক) এমন কোন কথা বলিয়া দিন যে, আপনার পর আম্র জন্য পুনরায় ঐ বিষয়ে আর কাহাকেও জিঞ্জাসা করার প্রয়োজন না থাকে। তিনি এরশাদ করিলেন, তুমি ইহা বল যে, আমি আল্লাহর উপর ঈমান আনিলাম।অতঃ ইহার উপর অবিচল থাক। ফায়দাঃ অর্থাৎ প্রথমে আন্তরিকভাবে আল্লাহ যাত ও সিফতের উপর ঈমান আনয়ন কর। অতঃপর আল্লাহ তায়ালা ও তাঁহার রসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের হুকুমসমূহের উপর আমল কর। আর এই ঈমান ও আমল যেন সাময়িক না হয়। বরং পাকাপোক্তভাবে উহার উপর কায়েম থাক। (মাযাহের হক)\n",
+          "title_english": "Sufyan ibn ' Abdullah Aththaqafi Radiyallahu 'anhu narrated that I asked: O Rasulallah! Tell me something most important about Islam, so that I will have no further need to ask about this from anyone after you. He said: Say, I believe in Allah, and be steadfast therein. (Muslim) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4f2",
+          "title_arabic": "عَنْ عَبْدِ اللهِ بْنِ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللهُ عَنْهُمَا قال؟ قال رسول الله صلى الله عليه وسلم:\"إِنَّ الْإِيْمَانَ لَيَخْلُقُ فِيْ جَوْفِ أَحَدِكُمْ كَمَا يَخْلُقُ الثَّوْبَ فَاسْأَلُوْا اللهَ أَنْ يُجَدِّدَ الْإِيْمَان فِيْ قُلُوْبِكُمْ(رواه الحاكم\n",
+          "title_bangla": "হযরত আব্দুল্লাহ ইবনে আমর ইবনে আস (রাযিঃ) হইতে বর্ণিত আছে যে, রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিয়াছেন, ঈমান এমনিভাবে পুরানো (ও দুর্বল) হইয়া যায়, যেমন কাপড় পুরানো হইয়া যায়। সুতরাং আল্লাহ তায়ালার নিকট দোয়া কর যেন তিনি তোমাদের অন্তরে ঈমান তাজা রাখেন। (মুসতাদরাকে হাকেম) \n",
+          "title_english": "Abdullah ibn 'Amr ibn 'As Radiyallahu 'anhuma narrates that Rasulullah Sallallahu 'alaihi wasallam said: Verily, the Iman in your hearts becomes worn just as clothes become worn out and tattered. So, keep on asking Allah to renew the Iman in your hearts. (Mustadrak Hakim) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4f3",
+          "title_arabic": "عَنْ أَبِىْ هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ قَالَ، قالَ رسول الله صلّى الله عليه وسلّم إِنَّ اللهَ تَجَاوَزَ لِيْ عَنْ أُمَّتِىْ مَا وَسْوَسْتَ بِهِ صُدُوْرُهَا مَا لَمْ تَعْمَلُ أَوْ تَتَكَلَّمُ(رواه البخارى  \n",
+          "title_bangla": "হযরত আবু হুরায়রা (রাযিঃ) হইতে বর্ণিত আছে যে, রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিয়াছেন, আল্লাহ তায়ালা আমার উম্মতের (ঐ সকল) ওয়াসওয়াসাসমূহকে মাফ করিয়া দিয়াছেন (যাহা ঈমান ও একীনের বিপরীত অথবা গুনাহের ব্যাপারে অনিচ্চকৃত তাহার অন্তরে আসে)। যতক্ষন পর্যন্ত সে ব্যাক্তি ঐ ওয়াসওয়াসা মোতাবেক আমল না করে অথবা উহাকে মুখ উচ্চারণ না করে। (বুখারী) \n",
+          "title_english": "Abu Hurairah Radiyallahu 'anhu narrates that Nabi Sallallahu 'alaihi wasallam said: Verily, Allah has forgiven my Ummah the evil promptings or desires of their hearts, as long as they do not act upon them or speak of them. (Bukhari) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4f4",
+          "title_arabic": "عَنْ أَبِي هُرَيْرَةَ، قَالَ: جَاءَ نَاسٌ مِنْ أَصْحَابِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَسَأَلُوهُ: إِنَّا نَجِدُ فِي أَنْفُسِنَا مَا يَتَعَاظَمُ أَحَدُنَا أَنْ يَتَكَلَّمَ بِهِ، قَالَ: «وَقَدْ وَجَدْتُمُوهُ؟» قَالُوا: نَعَمْ، قَالَ: «ذَاكَ صَرِيحُ الْإِيمَانِ»(رواه مسلم  \n",
+          "title_bangla": "হযরত আবু হুরায়রা (রাযিঃ) বলেন, কয়েকজন সাহাবা (রায়িঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের খেদমতে হাজির হইয়া আরজ করিলেন, আমদের অন্তরে এমন কিছু কল্পনা আসে যাহা মুখে উচ্চারণ করা আমরা অত্যন্ত খারাপ মনে করি। রাসূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিঞ্জাসা করিলেন, সত্যিই কি তোমাদের নিকট ঐ সমস্ত কল্পনা মুখে উচ্চারণ করিতে খারাপ লাগে? সাহাবা (রায়িঃ) আরজ করিলেন জি হ্যাঁ। তিনি এরশাদ করিলেন, ইহাই তো ঈমান। (মুসলিম) ফায়দাঃ অর্থাৎ যখন এই সকল চিন্তা ও কল্পনা তোমাদেরকে এত অস্থির করিয়া তোলে যে, এইগুলিকে বিশ্বাস করে তো দূরের কথা, মৌখিক উচ্চারণও তোমাদের নিকট অপছন্দনীয় তখন ইহাই তো পূর্ণ ঈমানের আলমত। (নববী)   \n",
+          "title_english": "Abu Hurairah Radiyallahu 'anhu narrates that some of the Sahabah Radiyallahu 'annum came to Nabi Sallallahu 'alaihi wasallam and asked him: We find that, in our hearts, arise such thoughts that we would be ashamed to talk of them. He said: Well, do you indeed feel like that? We said: Yes. He replied: That is pure Iman. (Muslim) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4f5",
+          "title_arabic": "عَنْ أَبِي هُرَيْرَةَ ، عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيهِ وَسَلَّمَ ، قَالَ : \" أَكْثِرُوا مِنْ شَهَادَةِ أَنْ لا إِلَهَ إِلا اللَّهُ قَبْلَ أَنْ يُحَالَ بَيْنَكُمْ وَبَيْنَهَا (رواه ابى يعلى باسناد جيد قوى  \n",
+          "title_bangla": "হযরত আবু হোরায়রা (রায়িঃ) বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের এরশাদ নকল করেন যে, বেশী বেশী লা ইলাহা ইল্লাল্লাহ এর সাক্ষ্য দিতে থাক, ঐ সময় আসার পূর্বে যখন তোমরা (মৃত্যু অথবা রোগ ব্যাধি ইত্যাদির কারনে) এই কলেমা উচ্চারণ করিতে পারিবে না।(আবু ইয়ালা, তারগীব)   \n",
+          "title_english": "Abu Hurairah Radiyallahu 'anhu narrates that Rasulullah Sallallahu 'alaihi wasallam said: Testify frequently La ilaha illallah (None is worthy of worship except Allah) before a barrier (death or illness) comes between you and it. (Musnad Abu Ya'la, Targhib)  \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4f6",
+          "title_arabic": "نْ عُثْمَانَ بْنِ عَفَّانَ - رَضِيَ اللَّهُ عَنْهُ - قَالَ: قَالَ رَسُولُ اللَّهِ - صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \" «مَنْ مَاتَ وَهُوَ يَعْلَمُ أَنَّهُ لَا إِلَهَ إِلَّا اللَّهُ دَخَلَ الْجَنَّةَ» (رواه مسلم  \n",
+          "title_bangla": "হযরত ওসমান (রায়িঃ) হইতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিয়াছেন, যে ব্যাক্তির এমন অবস্থায় মৃত্যু আসে যে, সে একীনের সহিত জানে আল্লাহ ছাড়া কোন মাবুদ নাই, সে বেহেশতে প্রবেশ করিবে। (মুসলিম)\n",
+          "title_english": "Uthman ibn 'Affan Radiyallahu 'anhu narrates that Rasulullah Sallallahu 'alaihi wasallam said: He, who died knowing (and believing) that there is none worthy of worship except Allah, will enter Paradise. (Muslim) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4f7",
+          "title_arabic": "عَنْ عُثْمَانَ بْنِ عَفَّانَ - رَضِيَ اللَّهُ عَنْهُ - قَالَ: قَالَ رَسُولُ اللَّهِ - صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: مَنْ مَاتَ وَهُوَ يَعْلَمُ أَنَّ الله جَقٌّ دَخَلَ الْجَنَّةَ»(رواه ابى يعلى مسنده \n",
+          "title_bangla": "হযরত ওসমান ইবনে আফফান (রায়িঃ) হইতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিয়াছেন, যে ব্যাক্তি এই একীনের সহিত মৃত্যুবরণ করিল যে, আল্লাহ তায়ালার (অস্তিত্ব) হক, সে বেহেশতে প্রবেশ করিবে। (আবু ইয়ালা)  \n",
+          "title_english": "Uthman ibn 'Affan Radiyallahu 'anhu narrates that Rasulullah Sallallahu 'alaihi wasallam said: He, who died knowing that Allah is True and He exists, will enter Paradise. (Musnad Abu Ya'la)\n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4f8",
+          "title_arabic": "عَنْ عَلِىٍّ ‏رَضِيَ اللهُ عَنْهُ قَاَلَ :قاَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ :قاَلَ اللهُ تَعَالاَ اِنِّيْ اَنَا اللهُ لاَ اِلَهَ اِلاَّ اَنَا مَنْ اَقَرَّلِيْ بِا لتَّوْحِيْدِ دَخَلَ حِصْنِىْ وَ مَنْ دَخَلَ حِصْنِىْ اَمِنَ مِنْ عَذَابِى (رواه الشيرازى ",
+          "title_bangla": "হযরত আলী (রায়িঃ) হইতে বর্ণিত আছে যে, নবী করীম রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাদীসে কুদসীতে আপন রবের এই এরশাদ নকল করেন, -- আমিই আল্লাহ, আমি ছাড়া কোন মাবুদ নাই, যে ব্যাক্তি আমার একত্বেকে স্বীকার করিল সে আমার দূর্গে প্রবেশ করিল। যে আমার দূর্গে প্রবেশ করিল সে আমার আযাব হইতে নিরাপদ হইয়া গেল। (সিরাজী, জামে'সগীর)",
+          "title_english": "Ali Radiyallahu 'anhu narrates that Nabi Sallallahu 'alaihi wasallam said in a Hadith Qudsi that Allah Ta'ala says: Indeed I am Allah, there is none worthy of worship except Me; he who acknowledges My Oneness enters My fortress, and he who enters My fortress is safe from My Punishment. (Shirazi, Jami-'us-Saghir) \n"
+        },
+        {
+          "reference": null,
+          "status": "active",
+          "_id": "5e638322220bac4554ada4f9",
+          "title_arabic": "عَنْ مَكْحُوْلٍ ‏رَحِمَهُ الله يُحَدِّثُ قَاَلَ: جَاءَ شَيْخُ كَبِيْرُ هَرِمَ قَدْ سَقَطَ حَاجِبَاهُ عَلَى عَيْنٍيهِ، فَقَالَ: يَا رَسُوْلَ اللهِ رَجُلٌ غَدَرَ وَفَجَرَ، وَلَمْ يَدْعُ حَاجَة وَلاَ دَاجَةٌ إلاَّ اقْطَفَهَا بِيَمِيْنِهِ، لَوْ قُسِمَت خَطِيْئَتُهُ بَيْنَ أَهْلِ الأَْرْضِ لَأَوْبَقَتْهُمْ؛ فَهَلْ لَهُ مِنْ تَوْبَةٍ؟ فَقَالَ الَّنِبيُّ صلى الله عليه وآله وسلم: «أَأَسْلَمْتَ» ؟ فَقَالَ: أَمَّا أَنَا فَأَشْهَدُ أَنْ لاَ إِلَهَ إلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ وَأَنَّ مُحَمَّدٌاً َعَبْدُهُ وَرَسُوْلُهُ، فَقَالَ الَّنبِيُّ صلى الله عليه وسلم «فَإِنَّ اللهَ غَافِرُ لَكَ مَاَ كُنْتَ كَذَالِكَ، وَمُبَدِّلُ سَيِّئاَتِكَ حَسَنَاتٍ » فَقَالَ: يَا رَسُوْلَ اللهِ وغَدَراتِيْ وَفَجَراتِيْ؟، قَالَ: «وغَدَرَاتِك وفَجَراِتكَ» فَوَلَّى الَّرجُلُ يُكَبِّرُ وَيُهَلِّلُ. (تفسير ابن كثير \n",
+          "title_bangla": "হযরত মাকহুল (রহঃ) বলেন, একজন অত্যন্ত বৃদ্ধ যাহার উভয় ভ্রূ চোখের উপর ঝুলিয়া পড়িয়াছিল। লোকটি আসিয়া আরজ করিল, হে আল্লাহর রাসূল ! এমন এক ব্যাক্তি যে অনেক বহু ওয়াদা ভঙ্গ ও গুনাহের কাজ করিয়াছে, এবং জায়েয, নাজায়েয সব রকমের খাহেশ পুরা করিয়াছে, আর তাহার গুনাহ এত বেশী যে, যদি সমগ্র দুনিয়াবাসীর মধ্যে বন্টন করিয়া দেওয়া হয় তবে সকলকে ধ্বংস করিয়া দিবে। এরূপ ব্যাক্তির জন্য তওবার সুযোগ আছে কি ? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিলেন, তুমি কি মুসলমান হইয়াছ ? সে আরজ করিল জ্বি হাঁ। আমি কালেমায়ে শাহাদাত- اَشْهَدَُ اَنْ لآ اِلَهَ اِلاَ اَلْلَهُ وَحْدَه’ لاَ شَرىْكَ له’ وَ اَنْنَ مُحَمْمَدً عَبْدُه’ وَ رَسُوْلُه’ এর সাক্ষ্যদান করি। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করিলেন, যতক্ষন তুমি এই কলেমার স্বীকারোক্তির উপর অবিচল থাকিবে আল্লাহ তায়ালা তোমার সবরকম ওয়াদা ভঙ্গ করা ও সকল গুনাহকে মাফ করিতে থাকিবেন এবং তোমার গুনাহসমূহকে নেকীর দ্বারা পরিবর্তন করিতে থাকিবেন। সেই বৃদ্ধ ব্যাক্তি আরজ করিল, হে আল্লাহর রাসূল ! আমার সমস্ত ওয়াদা ভঙ্গ ও গুনাহ মাফ ? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিলেন, হাঁ তোমার সমস্ত ওয়াদা ভঙ্গ ও গুনাহ মাফ। ইহা শুনিয়া সেই বৃদ্ধ ব্যাক্তি আল্লাহু আকবার, লা ইলাহা ইল্লাল্লাহ বলিতে বলিতে পিঠ ঘুরাইয়া (আনন্দের সহিত) চলিয়া গেল। (ইবনে কাসীর)\n",
+          "title_english": "Makhul Rahimahullah narrated that a very old man, with eyebrows drooping over his eyes, came and said: O Rasulallah A man who had betrayed, fornicated, and not left any wish or a slightest desire (whether permitted or forbidden) but fulfilled it; if his sins were distributed amongst the entire population of the world, they would be destroyed thereby. Can his turning with repentance be accepted? Rasulullah Sallallahu 'alaihi wasallam asked: Have you embraced Islam? He replied: As for me, I bear witness that there is none worthy of worship except Allah, Alone, without partner, and that Muhammad is His slave and Messenger. @ +@Nabi Sallallahu 'alaihi wasallam said: Then, indeed Allah will keep forgiving you and replacing your evil deeds with righteous ones as long as you are faithful to the words of this Kalimah. At this, the old man exclaimed: O Rasulallah! And my betrayals and my fornication? Nabi Sallallahu 'alaihi wasallam replied: And your betrayals and your fornication. The old man then turned and left saying (out of sheer joy): Allahu Akbar, La illha illallah. (Tafsir ibn Kathir) \n"
+        }
+      ],
+      "_id": "5e671c7803d9633bac5dfa6f",
+      "subtitle": "ইমান",
+      "title": "কালেমায়ে তাইয়্যেবা",
+      "createdAt": "2020-03-10T05:06:14.742Z",
+      "status": "active",
+      "updatedAt": "2020-03-10T05:06:14.742Z"
+    }]
