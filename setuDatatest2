@@ -1,0 +1,11 @@
+{
+  "title": "The Basics - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
+  "categories": [
+    { "id": "1", "name": "মাছের খামার", "releaseYear": "1977" },
+    { "id": "2", "name": "সবজি বাজার", "releaseYear": "1985" },
+    { "id": "3", "name": "মাংসের বাজার", "releaseYear": "1999" },
+    { "id": "4", "name": "হালুয়ার বাজার", "releaseYear": "2010" },
+    { "id": "5", "name": "হাসের বাজার", "releaseYear": "2014" }
+  ]
+}
