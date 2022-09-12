@@ -1,0 +1,55 @@
+[
+  {
+    "id": 0,
+    "firstName": "Sharjana  Islam",
+    "lastName": null,
+    "bnFirstName": null,
+    "bnLastName": null,
+    "phone": null,
+    "email": null,
+    "organization": null,
+    "categories": [
+      {
+        "id": 6,
+        "name": "Fish Farm",
+        "bnName": "মাছের খামার",
+        "organizationCategories": null,
+        "commodities": null
+      }
+    ],
+    "presentAddress": {
+      "id": 305,
+      "districtId": 59,
+      "district": {
+        "id": 59,
+        "name": "Khulna",
+        "bnName": "খুলনা",
+        "divisionId": 4,
+        "division": null,
+        "upazilas": null
+      },
+      "thana": "Terokhada",
+      "upazilaId": 297,
+      "upazila": null,
+      "postCode": null,
+      "streetAddress": "Arikhali",
+      "longitude": 0,
+      "latitude": 0
+    },
+    "presentDistrict": {
+      "id": 59,
+      "name": "Khulna",
+      "bnName": "খুলনা",
+      "divisionId": 4,
+      "division": null,
+      "upazilas": null
+    },
+    "agentFirstName": null,
+    "agentLastName": null,
+    "registrationDate": null,
+    "bankInfo": null,
+    "businessType": null,
+    "active": false,
+    "upazila": null
+  }
+]
