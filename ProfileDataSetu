@@ -1,0 +1,452 @@
+{
+  "personalInformation": {
+    "id": 2,
+    "name": "S.M Shamsul  Alam",
+    "bnName": "এস এম শামসুল  আলম ",
+    "fatherName": "Md. Wohadul Islam",
+    "motherName": null,
+    "dathOfBirth": "0001-01-01T00:00:00",
+    "registrationDate": "2019-07-04T00:00:00",
+    "email": null,
+    "phone": "01925435586",
+    "nid": null,
+    "nidAttachment": null,
+    "passport": null,
+    "passportAttachment": null,
+    "image": null,
+    "characterCertificate": null,
+    "gender": "Male",
+    "education": null,
+    "experience": null,
+    "signature": null,
+    "bankAccount": null,
+    "bankName": null,
+    "branchName": null,
+    "routingNo": null,
+    "accountName": null,
+    "presentAddressId": 4,
+    "presentAddress": {
+      "id": 4,
+      "districtId": 59,
+      "district": {
+        "id": 59,
+        "name": "Khulna",
+        "bnName": "খুলনা",
+        "divisionId": 4,
+        "division": null,
+        "upazilas": [
+          {
+            "id": 303,
+            "districtId": 59,
+            "name": "Paikgachha",
+            "bnName": "পাইকগাছা"
+          }
+        ]
+      },
+      "thana": null,
+      "upazilaId": 303,
+      "upazila": {
+        "id": 303,
+        "districtId": 59,
+        "district": {
+          "id": 59,
+          "name": "Khulna",
+          "bnName": "খুলনা",
+          "divisionId": 4,
+          "division": null,
+          "upazilas": []
+        },
+        "name": "Paikgachha",
+        "bnName": "পাইকগাছা"
+      },
+      "postCode": null,
+      "streetAddress": "Saral Batikhali",
+      "longitude": 0,
+      "latitude": 0
+    },
+    "permanentAddressId": 3,
+    "permanentAddress": null
+  },
+  "organization": {
+    "id": 1,
+    "name": "S.M Shamsul Alam",
+    "estDate": "0001-01-01T00:00:00",
+    "ownership": "Proprietorship",
+    "tinNo": null,
+    "tinFile": null,
+    "vatRegistrationNO": null,
+    "vatRegistrationFile": null,
+    "mou": false,
+    "mouFile": null,
+    "incorporateCertificate": false,
+    "incorporateCertificateFile": null,
+    "other": null,
+    "otherFile": null,
+    "revenue": 0,
+    "expense": 0,
+    "netProfit": 0,
+    "totalAsset": 0,
+    "permanentAsset": 0,
+    "employeeNo": 0,
+    "yearlyTurnover": 0,
+    "registeredTo": null,
+    "organizationCategories": [
+      {
+        "id": 501,
+        "organizationId": 1,
+        "categoryId": 2,
+        "category": {
+          "id": 2,
+          "name": "Short term stock business",
+          "bnName": "স্টক ব্যবসা",
+          "organizationCategories": [
+            {
+              "id": 482,
+              "organizationId": 310,
+              "organization": {
+                "id": 310,
+                "name": "Nayma Enterprise",
+                "estDate": null,
+                "ownership": "Proprietorship",
+                "tinNo": null,
+                "tinFile": null,
+                "vatRegistrationNO": null,
+                "vatRegistrationFile": null,
+                "mou": false,
+                "mouFile": null,
+                "incorporateCertificate": false,
+                "incorporateCertificateFile": null,
+                "other": null,
+                "otherFile": null,
+                "revenue": 0,
+                "expense": 0,
+                "netProfit": 0,
+                "totalAsset": 0,
+                "permanentAsset": 0,
+                "employeeNo": 0,
+                "yearlyTurnover": 0,
+                "registeredTo": null,
+                "organizationCategories": [],
+                "addressId": 945,
+                "address": {
+                  "id": 945,
+                  "districtId": 1,
+                  "district": null,
+                  "thana": null,
+                  "upazilaId": null,
+                  "upazila": null,
+                  "postCode": null,
+                  "streetAddress": null,
+                  "longitude": 0,
+                  "latitude": 0
+                },
+                "tradeLicenseNo": null,
+                "tradeLicenseFile": null,
+                "tradeLicenses": null
+              },
+              "categoryId": 2
+            }
+          ],
+          "commodities": null
+        }
+      }
+    ],
+    "addressId": 5,
+    "address": {
+      "id": 5,
+      "districtId": 59,
+      "district": {
+        "id": 59,
+        "name": "Khulna",
+        "bnName": "খুলনা",
+        "divisionId": 4,
+        "division": null,
+        "upazilas": [
+          {
+            "id": 303,
+            "districtId": 59,
+            "name": "Paikgachha",
+            "bnName": "পাইকগাছা"
+          }
+        ]
+      },
+      "thana": "Paikgachha",
+      "upazilaId": null,
+      "upazila": null,
+      "postCode": null,
+      "streetAddress": "Saral Batikhali",
+      "longitude": 0,
+      "latitude": 0
+    },
+    "tradeLicenseNo": null,
+    "tradeLicenseFile": null,
+    "tradeLicenses": null
+  },
+  "agent": {
+    "firstName": "Ripon Molla",
+    "lastName": null,
+    "bnFirstName": "রিপন মোল্লা ",
+    "bnLastName": null,
+    "gender": "Male",
+    "email": null,
+    "phone": "01741373063",
+    "image": null,
+    "organizationName": "Nayma Enterprise",
+    "typeofBusiness": [
+      {
+        "id": 2,
+        "name": "Short term stock business",
+        "bnName": "স্টক ব্যবসা",
+        "organizationCategories": [
+          {
+            "id": 501,
+            "organizationId": 1,
+            "organization": {
+              "id": 1,
+              "name": "S.M Shamsul Alam",
+              "estDate": "0001-01-01T00:00:00",
+              "ownership": "Proprietorship",
+              "tinNo": null,
+              "tinFile": null,
+              "vatRegistrationNO": null,
+              "vatRegistrationFile": null,
+              "mou": false,
+              "mouFile": null,
+              "incorporateCertificate": false,
+              "incorporateCertificateFile": null,
+              "other": null,
+              "otherFile": null,
+              "revenue": 0,
+              "expense": 0,
+              "netProfit": 0,
+              "totalAsset": 0,
+              "permanentAsset": 0,
+              "employeeNo": 0,
+              "yearlyTurnover": 0,
+              "registeredTo": null,
+              "organizationCategories": [],
+              "addressId": 5,
+              "address": {
+                "id": 5,
+                "districtId": 59,
+                "district": {
+                  "id": 59,
+                  "name": "Khulna",
+                  "bnName": "খুলনা",
+                  "divisionId": 4,
+                  "division": null,
+                  "upazilas": [
+                    {
+                      "id": 303,
+                      "districtId": 59,
+                      "name": "Paikgachha",
+                      "bnName": "পাইকগাছা"
+                    }
+                  ]
+                },
+                "thana": "Paikgachha",
+                "upazilaId": null,
+                "upazila": null,
+                "postCode": null,
+                "streetAddress": "Saral Batikhali",
+                "longitude": 0,
+                "latitude": 0
+              },
+              "tradeLicenseNo": null,
+              "tradeLicenseFile": null,
+              "tradeLicenses": null
+            },
+            "categoryId": 2
+          },
+          {
+            "id": 482,
+            "organizationId": 310,
+            "organization": {
+              "id": 310,
+              "name": "Nayma Enterprise",
+              "estDate": null,
+              "ownership": "Proprietorship",
+              "tinNo": null,
+              "tinFile": null,
+              "vatRegistrationNO": null,
+              "vatRegistrationFile": null,
+              "mou": false,
+              "mouFile": null,
+              "incorporateCertificate": false,
+              "incorporateCertificateFile": null,
+              "other": null,
+              "otherFile": null,
+              "revenue": 0,
+              "expense": 0,
+              "netProfit": 0,
+              "totalAsset": 0,
+              "permanentAsset": 0,
+              "employeeNo": 0,
+              "yearlyTurnover": 0,
+              "registeredTo": null,
+              "organizationCategories": [],
+              "addressId": 945,
+              "address": {
+                "id": 945,
+                "districtId": 1,
+                "district": null,
+                "thana": null,
+                "upazilaId": null,
+                "upazila": null,
+                "postCode": null,
+                "streetAddress": null,
+                "longitude": 0,
+                "latitude": 0
+              },
+              "tradeLicenseNo": null,
+              "tradeLicenseFile": null,
+              "tradeLicenses": null
+            },
+            "categoryId": 2
+          }
+        ],
+        "commodities": null
+      }
+    ],
+    "presentAddress": {
+      "id": 807,
+      "districtId": 9,
+      "district": null,
+      "thana": null,
+      "upazilaId": 203,
+      "upazila": null,
+      "postCode": null,
+      "streetAddress": "member bari, horpara",
+      "longitude": 0,
+      "latitude": 0
+    },
+    "organizationAddress": {
+      "id": 945,
+      "districtId": 1,
+      "district": null,
+      "thana": null,
+      "upazilaId": null,
+      "upazila": null,
+      "postCode": null,
+      "streetAddress": null,
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  "businessCategories": [
+    {
+      "id": 2,
+      "name": "Short term stock business",
+      "bnName": "স্টক ব্যবসা",
+      "organizationCategories": [
+        {
+          "id": 501,
+          "organizationId": 1,
+          "organization": {
+            "id": 1,
+            "name": "S.M Shamsul Alam",
+            "estDate": "0001-01-01T00:00:00",
+            "ownership": "Proprietorship",
+            "tinNo": null,
+            "tinFile": null,
+            "vatRegistrationNO": null,
+            "vatRegistrationFile": null,
+            "mou": false,
+            "mouFile": null,
+            "incorporateCertificate": false,
+            "incorporateCertificateFile": null,
+            "other": null,
+            "otherFile": null,
+            "revenue": 0,
+            "expense": 0,
+            "netProfit": 0,
+            "totalAsset": 0,
+            "permanentAsset": 0,
+            "employeeNo": 0,
+            "yearlyTurnover": 0,
+            "registeredTo": null,
+            "organizationCategories": [],
+            "addressId": 5,
+            "address": {
+              "id": 5,
+              "districtId": 59,
+              "district": {
+                "id": 59,
+                "name": "Khulna",
+                "bnName": "খুলনা",
+                "divisionId": 4,
+                "division": null,
+                "upazilas": [
+                  {
+                    "id": 303,
+                    "districtId": 59,
+                    "name": "Paikgachha",
+                    "bnName": "পাইকগাছা"
+                  }
+                ]
+              },
+              "thana": "Paikgachha",
+              "upazilaId": null,
+              "upazila": null,
+              "postCode": null,
+              "streetAddress": "Saral Batikhali",
+              "longitude": 0,
+              "latitude": 0
+            },
+            "tradeLicenseNo": null,
+            "tradeLicenseFile": null,
+            "tradeLicenses": null
+          },
+          "categoryId": 2
+        },
+        {
+          "id": 482,
+          "organizationId": 310,
+          "organization": {
+            "id": 310,
+            "name": "Nayma Enterprise",
+            "estDate": null,
+            "ownership": "Proprietorship",
+            "tinNo": null,
+            "tinFile": null,
+            "vatRegistrationNO": null,
+            "vatRegistrationFile": null,
+            "mou": false,
+            "mouFile": null,
+            "incorporateCertificate": false,
+            "incorporateCertificateFile": null,
+            "other": null,
+            "otherFile": null,
+            "revenue": 0,
+            "expense": 0,
+            "netProfit": 0,
+            "totalAsset": 0,
+            "permanentAsset": 0,
+            "employeeNo": 0,
+            "yearlyTurnover": 0,
+            "registeredTo": null,
+            "organizationCategories": [],
+            "addressId": 945,
+            "address": {
+              "id": 945,
+              "districtId": 1,
+              "district": null,
+              "thana": null,
+              "upazilaId": null,
+              "upazila": null,
+              "postCode": null,
+              "streetAddress": null,
+              "longitude": 0,
+              "latitude": 0
+            },
+            "tradeLicenseNo": null,
+            "tradeLicenseFile": null,
+            "tradeLicenses": null
+          },
+          "categoryId": 2
+        }
+      ],
+      "commodities": null
+    }
+  ]
+}
